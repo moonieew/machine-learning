@@ -1,0 +1,501 @@
+﻿STT,SẢN PHẨM,NHU CẦU,TỈNH THÀNH,QUẬN HUYỆN,PHƯỜNG/ XÃ,"ĐƯỜNG, KHU VỰC",GIÁ,NGÀY ĐĂNG,HÃNG XE,DÒNG XE,XUẤT XỨ,NĂM SẢN XUẤT,DUNG TÍCH,SỐ CHỖ NGỒI,KIỂU XE,MÀU XE,NHIÊN LIỆU,HỘP SỐ,TRỌNG TẢI,SỐ KM ĐÃ ĐI
+1,Ô tô,Cần bán,Hồ Chí Minh,Quận 2,Phường Thạnh Mỹ Lợi,,690000000,13/09/2021,BMW,3 Series,Đức,2013,,4,Sedan,,Xăng,Tự động,,79
+2,Ô tô,Cần bán,Hồ Chí Minh,Quận 12,Phường Thới An,,330000000,13/09/2021,Toyota,Vios,,2017,,5,Sedan,,Xăng,Số sàn,,100
+3,Ô tô,Cần bán,Hồ Chí Minh,Quận 1,Phường Bến Thành,,1699000000,13/09/2021,Volkswagen,Tiguan,Đức,2021,,7,SUV / Cross over,,Xăng,Tự động,,
+4,Ô tô,Cần bán,Hồ Chí Minh,Quận Thủ Đức,Phường Linh Đông,,515000000,13/09/2021,Toyota,Innova,Việt Nam,2018,,8,Minivan (MPV),,Xăng,Số sàn,,60
+5,Ô tô,Cần bán,Hồ Chí Minh,Quận Tân Bình,Phường 2,,830000000,13/09/2021,Ford,Ranger,Thái Lan,2019,,5,Pick-up (bán tải),,Dầu,Tự động,,38
+6,Ô tô,Cần bán,Hồ Chí Minh,Quận 12,Phường Hiệp Thành,,156000000,13/09/2021,Suzuki,Dòng khác,Việt Nam,2005,,7,Kiểu dáng khác,,Xăng,Số sàn,,11
+7,Ô tô,Cần bán,Hồ Chí Minh,Quận 8,Phường 1,,215000000,13/09/2021,Ford,Focus,Việt Nam,2009,,5,Sedan,,Xăng,Số sàn,,96
+8,Ô tô,Cần bán,Hồ Chí Minh,Quận 8,Phường 1,,618000000,13/09/2021,Chevrolet,Captiva,Việt Nam,2017,,7,SUV / Cross over,,Xăng,Tự động,,31
+9,Ô tô,Cần bán,Hồ Chí Minh,Quận 8,Phường 1,,458000000,13/09/2021,Ford,Focus,Việt Nam,2014,,5,Sedan,,Xăng,Tự động,,60
+10,Ô tô,Cần bán,Hồ Chí Minh,Quận Thủ Đức,Phường Linh Tây,,880000000,13/09/2021,Toyota,Camry,Việt Nam,2017,,5,Sedan,,Xăng,Tự động,,16.99
+11,Ô tô,Cần bán,Hồ Chí Minh,Quận 12,Phường Thạnh Xuân,,635000000,13/09/2021,Ford,Ranger,Thái Lan,2021,,5,Pick-up (bán tải),,Dầu,Tự động,,
+12,Ô tô,Cần bán,Hồ Chí Minh,Huyện Bình Chánh,Xã Vĩnh Lộc B,,450000000,13/09/2021,Honda,City,Nhật Bản,2017,,5,Sedan,,Xăng,Tự động,,90
+13,Ô tô,Cần bán,Hồ Chí Minh,Huyện Củ Chi,Xã Tân Thạnh Tây,,690000000,13/09/2021,Ford,Ranger,Thái Lan,2016,,5,Pick-up (bán tải),,Dầu,Tự động,,33
+14,Ô tô,Cần bán,Hồ Chí Minh,Quận Gò Vấp,Phường 12,,630000000,13/09/2021,Mazda,3 Series,Việt Nam,2020,,5,Sedan,,Xăng,Tự động,,17.611
+15,Ô tô,Cần bán,Hồ Chí Minh,Quận 9,,,389000000,13/09/2021,Hyundai,Accent,Việt Nam,2021,,5,Sedan,,Xăng,Số sàn,,
+16,Ô tô,Cần bán,Hồ Chí Minh,Quận 12,Phường Thới An,,350000000,13/09/2021,Hyundai,Grand i10,Nhật Bản,2020,,5,Sedan,,Xăng,Tự động,,11
+17,Ô tô,Cần bán,Hồ Chí Minh,Huyện Bình Chánh,Xã Bình Chánh,,420000000,13/09/2021,Toyota,Corolla Altis,Việt Nam,2015,,5,Sedan,,Xăng,Số sàn,,999
+18,Ô tô,Cần bán,Hồ Chí Minh,Quận 12,,,465000000,13/09/2021,Ford,Ranger,Mỹ,2017,,5,Pick-up (bán tải),,Dầu,Số sàn,,65
+19,Ô tô,Cần bán,Hồ Chí Minh,Quận Tân Bình,Phường 15,,1319000000,13/09/2021,Hyundai,Santa Fe,Việt Nam,2021,,7,SUV / Cross over,,Dầu,Tự động,,
+20,Ô tô,Cần bán,Hồ Chí Minh,Quận Bình Thạnh,Phường 25,,52000000,13/09/2021,Daewoo,Lanos,,2001,,5,Sedan,,Xăng,Số sàn,,12.348
+21,Ô tô,Cần bán,Hồ Chí Minh,Quận 7,Phường Tân Hưng,,1850000000,13/09/2021,Mercedes Benz,E Class,Việt Nam,2020,,5,Sedan,,Xăng,Tự động,,4
+22,Ô tô,Cần bán,Hồ Chí Minh,Quận Tân Bình,Phường 8,,668000000,13/09/2021,Toyota,Camry,Nhật Bản,2013,,5,Sedan,,Xăng,Tự động,,70
+23,Ô tô,Cần bán,Hồ Chí Minh,Quận 9,Phường Tăng Nhơn Phú B,,420000000,13/09/2021,Chevrolet,Orlando,Việt Nam,2017,,7,Minivan (MPV),,Xăng,Tự động,,75
+24,Ô tô,Cần bán,Hồ Chí Minh,Quận 9,Phường Tăng Nhơn Phú A,,515000000,13/09/2021,Honda,City,Việt Nam,2018,,5,Sedan,,Xăng,Bán tự động,,24
+25,Ô tô,Cần bán,Hồ Chí Minh,Quận 2,Phường Thảo Điền,,881695000,13/09/2021,Vinfast,Lux,Việt Nam,2021,,5,Sedan,,Xăng,Tự động,,
+26,Ô tô,Cần bán,Hồ Chí Minh,Quận 2,Phường Thảo Điền,,881695000,13/09/2021,Vinfast,Lux,Việt Nam,2021,,5,Sedan,,Xăng,Tự động,,
+27,Ô tô,Cần bán,Hồ Chí Minh,Quận 12,Phường Thới An,,450000000,13/09/2021,Hyundai,Accent,Việt Nam,2021,,5,Sedan,,Xăng,Tự động,,
+28,Ô tô,Cần bán,Hồ Chí Minh,Quận 7,,,4999000000,13/09/2021,Mercedes Benz,GLS Class,Mỹ,2021,,7,SUV / Cross over,,Xăng,Tự động,,
+29,Ô tô,Cần bán,Hồ Chí Minh,Quận 7,Phường Tân Kiểng,,599000000,13/09/2021,Honda,City,Việt Nam,2021,,5,Sedan,,Xăng,Tự động,,
+30,Ô tô,Cần bán,Hồ Chí Minh,Quận 2,Phường An Phú,,335000000,13/09/2021,Nissan,Murano,Nhật Bản,2005,,8,SUV / Cross over,,Xăng,Tự động,,85
+31,Ô tô,Cần bán,Hồ Chí Minh,Quận 9,Phường Long Thạnh Mỹ,,340000000,13/09/2021,Chevrolet,Cruze,,2016,,5,Sedan,,Xăng,Số sàn,,48
+32,Ô tô,Cần bán,Hồ Chí Minh,Quận Bình Tân,,,2690000000,13/09/2021,Mercedes Benz,GLB,Nước khác,2021,,7,SUV / Cross over,,Xăng,Tự động,,
+33,Ô tô,Cần bán,Hồ Chí Minh,Quận 1,Phường Bến Nghé,,6700000,12/9/2021,Acura,EL,,2018,,,,,,Tự động,,6
+34,Ô tô,Cần bán,Hồ Chí Minh,Quận Phú Nhuận,Phường 11,,419000000,12/9/2021,Chevrolet,Colorado,Nước khác,2018,,5,Pick-up (bán tải),,Dầu,Số sàn,,17
+35,Ô tô,Cần bán,Hồ Chí Minh,Huyện Củ Chi,,,95000000,12/9/2021,Hyundai,Grand i10,Việt Nam,2021,,,Hatchback,,Xăng,Bán tự động,,
+36,Ô tô,Cần bán,Hồ Chí Minh,Quận Bình Tân,Phường An Lạc,,1499000000,12/9/2021,Mercedes Benz,C Class,Việt Nam,2021,,5,Sedan,,Xăng,Tự động,,
+37,Ô tô,Cần bán,Hồ Chí Minh,Quận Gò Vấp,Phường 16,,1969000000,12/9/2021,Mercedes Benz,C Class,Việt Nam,2021,,5,Sedan,,Xăng,Tự động,,
+38,Ô tô,Cần bán,Hồ Chí Minh,Huyện Củ Chi,Xã Phước Vĩnh An,,150000000,12/9/2021,Ford,Laser,Mỹ,2002,,5,Sedan,,Xăng,Số sàn,,123.456
+39,Ô tô,Cần bán,Hồ Chí Minh,Quận Gò Vấp,Phường 16,,2950000000,12/9/2021,Mercedes Benz,E Class,Việt Nam,2021,,5,Sedan,,Xăng,Tự động,,
+40,Ô tô,Cần bán,Hồ Chí Minh,Quận 2,Phường Thảo Điền,,842000000,12/9/2021,Hyundai,Tucson,Việt Nam,2020,,5,SUV / Cross over,,Xăng,Tự động,,15
+41,Ô tô,Cần bán,Hồ Chí Minh,Quận 12,Phường Thạnh Xuân,,470000000,12/9/2021,Mazda,3,Nhật Bản,2016,,5,Sedan,,Xăng,Tự động,,74
+42,Ô tô,Cần bán,Hồ Chí Minh,Quận Bình Thạnh,Phường 13,,790000000,12/9/2021,Chevrolet,Colorado,Thái Lan,2020,,5,Pick-up (bán tải),,Dầu,Tự động,,4.289
+43,Ô tô,Cần bán,Hồ Chí Minh,Quận 12,Phường Thới An,,450000000,12/9/2021,Hyundai,Accent,Việt Nam,2021,,5,Sedan,,Xăng,Số sàn,,
+44,Ô tô,Cần bán,Hồ Chí Minh,Quận Thủ Đức,Phường Hiệp Bình Chánh,,190000000,12/9/2021,Hyundai,Getz,Hàn Quốc,2010,,5,Hatchback,,Xăng,Số sàn,,98
+45,Ô tô,Cần bán,Hồ Chí Minh,Quận 12,Phường Thới An,,739000000,12/9/2021,Hyundai,Tucson,Việt Nam,2021,,5,SUV / Cross over,,Dầu,Tự động,,
+46,Ô tô,Cần bán,Hồ Chí Minh,Quận 12,Phường Hiệp Thành,,305000000,12/9/2021,Mitsubishi,Attrage,Việt Nam,2019,,5,Sedan,,Xăng,Số sàn,,50
+47,Ô tô,Cần bán,Hồ Chí Minh,Quận 7,Phường Tân Phú,,1750000000,12/9/2021,Mercedes Benz,C Class,Việt Nam,2019,,5,Sedan,,Xăng,Tự động,,1.58
+48,Ô tô,Cần bán,Hồ Chí Minh,Quận Bình Thạnh,Phường 15,,254300000,12/9/2021,Suzuki,Dòng khác,,2021,,,,,,Số sàn,,
+49,Ô tô,Cần bán,Hồ Chí Minh,Quận 12,Phường Thới An,,739000000,12/9/2021,Hyundai,Tucson,,2021,,,,,,Tự động,,
+50,Ô tô,Cần bán,Hồ Chí Minh,Quận 12,Phường Hiệp Thành,,205000000,12/9/2021,Kia,Morning,Hàn Quốc,2009,,5,Hatchback,,Xăng,Tự động,,80
+51,Ô tô,Cần bán,Hồ Chí Minh,Quận Thủ Đức,Phường Linh Đông,,333333000,12/9/2021,Toyota,Wigo,Thái Lan,2019,,5,Hatchback,,Xăng,Tự động,,100
+52,Ô tô,Cần bán,Hồ Chí Minh,Quận 12,Phường Tân Thới Hiệp,,137000000,12/9/2021,Mitsubishi,Jolie,Việt Nam,2005,,7,,,Xăng,Số sàn,,20
+53,Ô tô,Cần bán,Hồ Chí Minh,Quận 12,,,518000000,12/9/2021,Toyota,Vios,Việt Nam,2020,,5,Sedan,,Xăng,Tự động,,1.618
+54,Ô tô,Cần bán,Hồ Chí Minh,Quận Bình Tân,Phường Bình Trị Đông,,1030000000,12/9/2021,Hyundai,Santa Fe,Việt Nam,2019,,7,SUV / Cross over,,Xăng,Tự động,,30
+55,Ô tô,Cần bán,Hồ Chí Minh,Quận Thủ Đức,Phường Bình Chiểu,,739000000,12/9/2021,Mitsubishi,Outlander,Việt Nam,2020,,5,SUV / Cross over,,Xăng,Tự động,,4
+56,Ô tô,Cần bán,Hồ Chí Minh,Quận 11,Phường 2,,595000000,12/9/2021,Honda,City,Việt Nam,2021,,5,Sedan,,Xăng,Tự động,,11
+57,Ô tô,Cần bán,Hồ Chí Minh,Quận Thủ Đức,Phường Hiệp Bình Phước,,970000000,12/9/2021,Mazda,6,Việt Nam,2020,,5,Sedan,,Xăng,Tự động,,17
+58,Ô tô,Cần bán,Hồ Chí Minh,Quận Thủ Đức,Phường Hiệp Bình Chánh,,135000000,12/9/2021,Ford,Escape,Việt Nam,2001,,5,SUV / Cross over,,Xăng,Tự động,,100
+59,Ô tô,Cần bán,Hồ Chí Minh,Quận Phú Nhuận,Phường 2,,1399000000,12/9/2021,BMW,4 Series,Đức,2013,,4,Coupe (2 cửa),,Xăng,Tự động,,80
+60,Ô tô,Cần bán,Hồ Chí Minh,Quận Bình Tân,Phường An Lạc,,630000000,11/9/2021,Mitsubishi,Triton,,2021,,,,,,Tự động,,
+61,Ô tô,Cần bán,Hồ Chí Minh,Quận Tân Phú,Phường Tây Thạnh,,690000000,11/9/2021,Ford,Ranger,Thái Lan,2021,,5,Pick-up (bán tải),,Dầu,Bán tự động,,1
+62,Ô tô,Cần bán,Hồ Chí Minh,Huyện Củ Chi,Thị trấn Củ Chi,,200000000,11/9/2021,Toyota,Yaris,Thái Lan,2010,,5,Hatchback,,Xăng,Số sàn,,5.887
+63,Ô tô,Cần bán,Hồ Chí Minh,Quận 3,Phường 10,,465000000,11/9/2021,Kia,Rondo,Việt Nam,2016,,7,Minivan (MPV),,Xăng,Tự động,,52
+64,Ô tô,Cần bán,Hồ Chí Minh,Quận Bình Tân,Phường Bình Trị Đông,,600000000,11/9/2021,Mitsubishi,Pajero,Thái Lan,2021,,7,Hatchback,,Xăng,Tự động,,10
+65,Ô tô,Cần bán,Hồ Chí Minh,Quận Bình Tân,Phường An Lạc,,999000000,11/9/2021,Kia,Sorento,Việt Nam,2021,,7,SUV / Cross over,,Dầu,Tự động,,
+66,Ô tô,Cần bán,Hồ Chí Minh,Quận 11,Phường 3,,480000000,11/9/2021,Toyota,Innova,Việt Nam,2017,,8,Minivan (MPV),,Xăng,Số sàn,,100
+67,Ô tô,Cần bán,Hồ Chí Minh,Huyện Hóc Môn,Xã Tân Xuân,,285000000,11/9/2021,Hyundai,Gold,Hàn Quốc,2011,,2,Kiểu dáng khác,,Dầu,Số sàn,,45
+68,Ô tô,Cần bán,Hồ Chí Minh,Quận 9,Phường Phước Long A,,490000000,11/9/2021,Toyota,Vios,Nhật Bản,2020,,5,Sedan,,Xăng,Số sàn,,40
+69,Ô tô,Cần bán,Hồ Chí Minh,Quận 7,Phường Bình Thuận,,299000000,11/9/2021,Suzuki,Ertiga,Ấn Độ,2015,,7,SUV / Cross over,,Xăng,Tự động,,42
+70,Ô tô,Cần bán,Hồ Chí Minh,Quận 7,Phường Tân Phong,,850000000,11/9/2021,Toyota,Fortuner,Việt Nam,2019,,7,SUV / Cross over,,Dầu,Số sàn,,3.9
+71,Ô tô,Cần bán,Hồ Chí Minh,Quận 2,Phường An Phú,,2489000000,11/9/2021,Mercedes Benz,S Class,Đức,2015,,5,Sedan,,Xăng,Tự động,,58
+72,Ô tô,Cần bán,Hồ Chí Minh,Huyện Nhà Bè,Xã Nhơn Đức,,998000000,11/9/2021,Honda,CR V,Việt Nam,2021,,7,SUV / Cross over,,Xăng,Tự động,,
+73,Ô tô,Cần bán,Hồ Chí Minh,Quận 12,Phường Trung Mỹ Tây,,510000000,11/9/2021,Toyota,Vios,Việt Nam,2020,,5,Sedan,,Xăng,Tự động,,15
+74,Ô tô,Cần bán,Hồ Chí Minh,Quận 12,Phường Trung Mỹ Tây,,1170000000,11/9/2021,Toyota,Camry,Thái Lan,2019,,5,Sedan,,Xăng,Tự động,,14
+75,Ô tô,Cần bán,Hồ Chí Minh,Quận Bình Tân,,,382500000,11/9/2021,Vinfast,Fadil,Việt Nam,2021,,5,Hatchback,,,Tự động,,
+76,Ô tô,Cần bán,Hồ Chí Minh,Quận 12,Phường Thạnh Xuân,,980000000,11/9/2021,Ford,Everest,Thái Lan,2018,,7,SUV / Cross over,,Dầu,Tự động,,35
+77,Ô tô,Cần bán,Hồ Chí Minh,Quận 2,Phường Thạnh Mỹ Lợi,,920000000,11/9/2021,Ford,Transit,Việt Nam,2021,,9,Minivan (MPV),,Dầu,Số sàn,,
+78,Ô tô,Cần bán,Hồ Chí Minh,Quận Thủ Đức,,,559000000,11/9/2021,Ford,EcoSport,Việt Nam,2021,,5,SUV / Cross over,,Xăng,Tự động,,
+79,Ô tô,Cần bán,Hồ Chí Minh,Quận Thủ Đức,Phường Trường Thọ,,208000000,11/9/2021,Hyundai,Tucson,Việt Nam,2021,,5,SUV / Cross over,,Xăng,Tự động,,
+80,Ô tô,Cần bán,Hồ Chí Minh,Quận 2,,,2479000000,11/9/2021,Mercedes Benz,GLC,Việt Nam,2020,,5,SUV / Cross over,,Xăng,Tự động,,20
+81,Ô tô,Cần bán,Hồ Chí Minh,Quận Tân Phú,Phường Sơn Kỳ,,950000000,11/9/2021,Toyota,Fortuner,Nhật Bản,2019,,7,SUV / Cross over,,Dầu,Tự động,,50
+82,Ô tô,Cần bán,Hồ Chí Minh,Quận Phú Nhuận,Phường 11,,699000000,11/9/2021,BMW,3 Series,Nước khác,2014,,4,Sedan,,Xăng,Tự động,,39
+83,Ô tô,Cần bán,Hồ Chí Minh,Quận Gò Vấp,Phường 8,,579000000,11/9/2021,Toyota,Hiace,Nhật Bản,2017,,16,Van,,Xăng,Số sàn,,50
+84,Ô tô,Cần bán,Hồ Chí Minh,Quận 7,Phường Tân Hưng,,1118000000,11/9/2021,Honda,CR V,Việt Nam,2021,,7,SUV / Cross over,,Xăng,Tự động,,
+85,Ô tô,Cần bán,Hồ Chí Minh,Quận Bình Thạnh,Phường 2,,465000000,11/9/2021,Honda,City,Việt Nam,2017,,5,Sedan,,Xăng,Tự động,,45
+86,Ô tô,Cần bán,Hồ Chí Minh,Quận Gò Vấp,Phường 17,,525000000,11/9/2021,Nissan,Qashqai,Nước khác,2012,,5,SUV / Cross over,,Xăng,Tự động,,16
+87,Ô tô,Cần bán,Hồ Chí Minh,Quận 12,Phường Thạnh Xuân,,235000000,10/9/2021,Suzuki,Dòng khác,,2020,,,,,Xăng,Số sàn,,3.506
+88,Ô tô,Cần bán,Hồ Chí Minh,Quận Bình Tân,Phường Tân Tạo,,370000000,10/9/2021,Toyota,Innova,Việt Nam,2013,,8,Minivan (MPV),,Xăng,Tự động,,105
+89,Ô tô,Cần bán,Hồ Chí Minh,Quận 12,,,345000000,10/9/2021,Hyundai,Grand i10,Việt Nam,2021,,5,Sedan,,Xăng,Tự động,,
+90,Ô tô,Cần bán,Hồ Chí Minh,Quận 1,Phường Bến Nghé,,1799000000,10/9/2021,Mercedes Benz,E Class,Việt Nam,2019,,5,Sedan,,Xăng,Tự động,,31
+91,Ô tô,Cần bán,Hồ Chí Minh,Quận 2,Phường An Phú,,2500000000,10/9/2021,Porsche,Macan,Đức,2016,,5,SUV / Cross over,,Xăng,Tự động,,34
+92,Ô tô,Cần bán,Hồ Chí Minh,Quận 7,Phường Tân Kiểng,,2600000000,10/9/2021,Mercedes Benz,S Class,,2017,,5,Sedan,,Xăng,Tự động,,54
+93,Ô tô,Cần bán,Hồ Chí Minh,Quận 7,Phường Tân Quy,,799000000,10/9/2021,Toyota,Camry,Việt Nam,2017,,5,Sedan,,Xăng,Tự động,,45
+94,Ô tô,Cần bán,Hồ Chí Minh,Quận Thủ Đức,Phường Linh Trung,,550000000,10/9/2021,Hyundai,Kona,,2018,,5,SUV / Cross over,,Xăng,Tự động,,50
+95,Ô tô,Cần bán,Hồ Chí Minh,Huyện Nhà Bè,Thị trấn Nhà Bè,,495000000,10/9/2021,Honda,City,Việt Nam,2018,,5,Sedan,,Xăng,Tự động,,85
+96,Ô tô,Cần bán,Hồ Chí Minh,Quận Tân Bình,Phường 15,,744000000,10/9/2021,Hyundai,Tucson,Việt Nam,2021,,5,SUV / Cross over,,Xăng,Tự động,,
+97,Ô tô,Cần bán,Hồ Chí Minh,Quận Thủ Đức,Phường Linh Trung,,505000000,10/9/2021,Nissan,Navara,Thái Lan,2017,,5,Pick-up (bán tải),,Dầu,Tự động,,95
+98,Ô tô,Cần bán,Hồ Chí Minh,Quận 9,Phường Long Bình,,725000000,10/9/2021,Mazda,3,Việt Nam,2020,,5,Hatchback,,Xăng,Tự động,,1.7
+99,Ô tô,Cần bán,Hồ Chí Minh,Quận Bình Tân,Phường An Lạc,,1110000000,10/9/2021,Mitsubishi,Pajero Sport,,2021,,,,,,Tự động,,
+100,Ô tô,Cần bán,Hồ Chí Minh,Quận 12,Phường Thới An,,68000000,10/9/2021,Hyundai,Grand i10,Hàn Quốc,2021,,5,Hatchback,,Xăng,Số sàn,,
+101,Ô tô,Cần bán,Hồ Chí Minh,Quận 11,Phường 4,,880000000,10/9/2021,Mazda,CX 5,Việt Nam,2020,,5,SUV / Cross over,,Xăng,Tự động,,12
+102,Ô tô,Cần bán,Hồ Chí Minh,Quận 12,Phường Thới An,,520000000,10/9/2021,Hyundai,Accent,Việt Nam,2021,,5,Sedan,,Xăng,Tự động,,
+103,Ô tô,Cần bán,Hồ Chí Minh,Quận Tân Phú,Phường Tây Thạnh,,695000000,10/9/2021,Toyota,Innova,,2019,,7,Minivan (MPV),,Xăng,Tự động,,50
+104,Ô tô,Cần bán,Hồ Chí Minh,Quận Bình Tân,Phường An Lạc A,,881695000,10/9/2021,Vinfast,Lux,Việt Nam,2021,,5,Sedan,,Xăng,Tự động,,
+105,Ô tô,Cần bán,Hồ Chí Minh,Quận Bình Tân,Phường An Lạc,,630000000,10/9/2021,Mitsubishi,Xpander,,2021,,,,,,Tự động,,
+106,Ô tô,Cần bán,Hồ Chí Minh,Quận 1,,,860000000,10/9/2021,Ford,Ranger,Việt Nam,2019,,5,Pick-up (bán tải),,Dầu,Tự động,,14.99
+107,Ô tô,Cần bán,Hồ Chí Minh,Quận 7,Phường Tân Thuận Tây,,499000000,10/9/2021,Toyota,Vios,Việt Nam,2020,,5,Sedan,,Xăng,Tự động,,1.618
+108,Ô tô,Cần bán,Hồ Chí Minh,Quận Thủ Đức,Phường Bình Chiểu,,75000000,10/9/2021,SYM,V5,Đài Loan,2011,,5,Pick-up (bán tải),,Xăng,Số sàn,,5.8
+109,Ô tô,Cần bán,Hồ Chí Minh,Huyện Củ Chi,Xã Tân Phú Trung,,165000000,10/9/2021,Ford,Transit,Việt Nam,2007,,7,Van,,Dầu,Số sàn,,250
+110,Ô tô,Cần bán,Hồ Chí Minh,Quận 7,Phường Phú Mỹ,,2950000000,10/9/2021,Mercedes Benz,E Class,Đức,2021,,5,Sedan,,Xăng,Tự động,,
+111,Ô tô,Cần bán,Hồ Chí Minh,Huyện Củ Chi,Xã Tân Phú Trung,,100000000,10/9/2021,Toyota,Corolla,Việt Nam,2001,,5,Sedan,,Xăng,Số sàn,,200
+112,Ô tô,Cần bán,Hồ Chí Minh,Quận 12,Phường Thới An,,360000000,10/9/2021,Hyundai,Grand i10,Việt Nam,2021,,5,Hatchback,,Xăng,Tự động,,
+113,Ô tô,Cần bán,Hồ Chí Minh,Quận Bình Thạnh,Phường 15,,1450000000,10/9/2021,Mercedes Benz,C Class,,2021,,,,,,Tự động,,50
+114,Ô tô,Cần bán,Hồ Chí Minh,Quận Bình Thạnh,,,599000000,10/9/2021,Mitsubishi,Xpander,,2021,,7,Minivan (MPV),,Xăng,Tự động,,2
+115,Ô tô,Cần bán,Hồ Chí Minh,Quận Gò Vấp,Phường 7,,969000000,10/9/2021,Toyota,Camry,Việt Nam,2018,,5,Sedan,,Xăng,Tự động,,50
+116,Ô tô,Cần bán,Hồ Chí Minh,Quận 12,,,881695000,10/9/2021,Vinfast,Lux,Việt Nam,2021,,5,Sedan,,Xăng,Tự động,,
+117,Ô tô,Cần bán,Hồ Chí Minh,Quận 10,Phường 12,,520000000,10/9/2021,Honda,City,Thái Lan,2020,,5,Sedan,,Xăng,Tự động,,16
+118,Ô tô,Cần bán,Hồ Chí Minh,Quận 12,,,345000000,10/9/2021,Ford,Escape,Việt Nam,2010,,5,SUV / Cross over,,Xăng,Tự động,,
+119,Ô tô,Cần bán,Hồ Chí Minh,Quận 7,Phường Phú Mỹ,,75000000,10/9/2021,Chery,Dòng khác,Việt Nam,2010,,5,SUV / Cross over,,Xăng,Số sàn,,100
+120,Ô tô,Cần bán,Hồ Chí Minh,Quận Gò Vấp,Phường 12,,556000000,10/9/2021,Ford,Transit,Việt Nam,2019,,7,Van,,Dầu,Số sàn,,15
+121,Ô tô,Cần bán,Hồ Chí Minh,Quận 2,Phường Bình Trưng Đông,,435000000,9/9/2021,Toyota,Vios,Việt Nam,2017,,5,Sedan,,Xăng,Tự động,,53
+122,Ô tô,Cần bán,Hồ Chí Minh,Quận 2,Phường Bình Trưng Đông,,330000000,9/9/2021,Toyota,Vios,Việt Nam,2015,,5,Sedan,,Xăng,Số sàn,,110
+123,Ô tô,Cần bán,Hồ Chí Minh,Huyện Bình Chánh,Xã Tân Kiên,,399000000,9/9/2021,Toyota,Vios,Nhật Bản,2019,,5,Sedan,,Xăng,Số sàn,,135
+124,Ô tô,Cần bán,Hồ Chí Minh,Quận Thủ Đức,Phường Bình Chiểu,,880000000,9/9/2021,Ford,Ranger,Thái Lan,2020,,5,Pick-up (bán tải),,Dầu,Tự động,,13
+125,Ô tô,Cần bán,Hồ Chí Minh,Quận Bình Tân,Phường An Lạc,,630000000,9/9/2021,Mitsubishi,Xpander,Việt Nam,2021,,7,SUV / Cross over,,Xăng,Tự động,,
+126,Ô tô,Cần bán,Hồ Chí Minh,Quận 1,Phường Tân Định,,475000000,9/9/2021,Hyundai,Sonata,Hàn Quốc,2012,,5,Sedan,,Xăng,Tự động,,80
+127,Ô tô,Cần bán,Hồ Chí Minh,Quận 8,Phường 4,,1089000000,9/9/2021,Ford,Dòng khác,Nước khác,2018,,5,Pick-up (bán tải),,Dầu,Tự động,,10
+128,Ô tô,Cần bán,Hồ Chí Minh,Quận Thủ Đức,Phường Linh Chiểu,,86000000,9/9/2021,Toyota,Fortuner,Nước khác,2017,,7,SUV / Cross over,,Dầu,Số sàn,,26
+129,Ô tô,Cần bán,Hồ Chí Minh,Quận 5,,,999000000,9/9/2021,Kia,Sorento,Việt Nam,2021,,7,SUV / Cross over,,Dầu,Tự động,,
+130,Ô tô,Cần bán,Hồ Chí Minh,Quận 3,,,456000000,9/9/2021,Mitsubishi,Grandis,Việt Nam,2011,,7,Minivan (MPV),,Xăng,Tự động,,32
+131,Ô tô,Cần bán,Hồ Chí Minh,Quận 7,Phường Tân Hưng,,1999000000,9/9/2021,Porsche,Cayenne,,2012,,,,,Xăng,Số sàn,,60
+132,Ô tô,Cần bán,Hồ Chí Minh,Quận 4,Phường 1,,285000000,9/9/2021,Hyundai,Grand i10,Ấn Độ,2014,,5,Hatchback,,Xăng,Tự động,,41
+133,Ô tô,Cần bán,Hồ Chí Minh,Quận 7,Phường Tân Phong,,698000000,9/9/2021,BMW,5 Series,Đức,2011,,5,Sedan,,Xăng,Tự động,,85
+134,Ô tô,Cần bán,Hồ Chí Minh,Huyện Củ Chi,,,175000000,9/9/2021,Kia,Morning,Hàn Quốc,2007,,5,Hatchback,,Xăng,Tự động,,75
+135,Ô tô,Cần bán,Hồ Chí Minh,Quận Thủ Đức,Phường Hiệp Bình Chánh,,615000000,9/9/2021,Kia,Seltos,,2021,,,,,,Tự động,,
+136,Ô tô,Cần bán,Hồ Chí Minh,Quận Bình Tân,Phường Bình Trị Đông,,340000000,9/9/2021,Toyota,Hiace,Việt Nam,2010,,16,Van,,Dầu,Số sàn,,225
+137,Ô tô,Cần bán,Hồ Chí Minh,Quận 8,Phường 1,,260000000,9/9/2021,Hyundai,Grand i10,Ấn Độ,2016,,5,Hatchback,,Xăng,Số sàn,,140
+138,Ô tô,Cần bán,Hồ Chí Minh,Quận 7,Phường Phú Thuận,,285000000,9/9/2021,Chevrolet,Cruze,Việt Nam,2010,,5,Sedan,,Xăng,Tự động,,65
+139,Ô tô,Cần bán,Hồ Chí Minh,Huyện Hóc Môn,Xã Tân Hiệp,,990000000,9/9/2021,Kia,Sedona,Việt Nam,2018,,7,Minivan (MPV),,Dầu,Tự động,,21.4
+140,Ô tô,Cần bán,Hồ Chí Minh,Quận Tân Phú,Phường Tây Thạnh,,4999000000,9/9/2021,Mercedes Benz,GLS Class,Đức,2021,,7,SUV / Cross over,,Xăng,Tự động,,
+141,Ô tô,Cần bán,Hồ Chí Minh,Huyện Củ Chi,Xã Tân Phú Trung,,255000000,9/9/2021,Chevrolet,Aveo,Việt Nam,2016,,5,Sedan,,Xăng,Tự động,,62
+142,Ô tô,Cần bán,Hồ Chí Minh,Quận Gò Vấp,Phường 9,,471000000,9/9/2021,Toyota,Vios,Việt Nam,2019,,5,Sedan,,Xăng,Tự động,,33
+143,Ô tô,Cần bán,Hồ Chí Minh,Quận 12,Phường Thới An,,695000000,9/9/2021,Ford,Aspire,,2018,,5,Pick-up (bán tải),,Dầu,Tự động,,22
+144,Ô tô,Cần bán,Hồ Chí Minh,Quận Thủ Đức,Phường Hiệp Bình Phước,,520000000,9/9/2021,Mitsubishi,Grandis,Việt Nam,2011,,7,SUV / Cross over,,Xăng,Tự động,,57
+145,Ô tô,Cần bán,Hồ Chí Minh,Quận Tân Phú,Phường Tây Thạnh,,3089000000,9/9/2021,Mercedes Benz,GLC,Đức,2021,,5,Coupe (2 cửa),,Xăng,Tự động,,
+146,Ô tô,Cần bán,Hồ Chí Minh,Huyện Bình Chánh,Xã Bình Hưng,,225000000,9/9/2021,Nissan,Grand livina,Việt Nam,2011,,7,Minivan (MPV),,Xăng,Số sàn,,82
+147,Ô tô,Cần bán,Hồ Chí Minh,Quận 7,Phường Tân Thuận Tây,,650000000,9/9/2021,Toyota,Innova,,2017,,7,Minivan (MPV),,Xăng,Tự động,,120
+148,Ô tô,Cần bán,Hồ Chí Minh,Quận 2,Phường Thảo Điền,,504000000,8/9/2021,Kia,Cerato,Việt Nam,2019,,5,Sedan,,Xăng,Tự động,,60
+149,Ô tô,Cần bán,Hồ Chí Minh,Quận 9,Phường Tăng Nhơn Phú B,,850000000,8/9/2021,Honda,CR V,Thái Lan,2018,,7,SUV / Cross over,,Xăng,Tự động,,100
+150,Ô tô,Cần bán,Hồ Chí Minh,Quận Tân Bình,,,881000000,8/9/2021,Vinfast,Lux,Việt Nam,2021,,5,Sedan,,Xăng,Tự động,,
+151,Ô tô,Cần bán,Hồ Chí Minh,Quận Tân Bình,,,881000000,8/9/2021,Vinfast,Lux,Việt Nam,2021,,5,Sedan,,Xăng,Tự động,,
+152,Ô tô,Cần bán,Hồ Chí Minh,Quận 11,Phường 2,,535000000,8/9/2021,Honda,Jazz,Thái Lan,2019,,5,Hatchback,,Xăng,Tự động,,7
+153,Ô tô,Cần bán,Hồ Chí Minh,Quận 7,Phường Tân Hưng,,850000000,8/9/2021,BMW,Dòng khác,Đức,2013,,5,Sedan,,Xăng,Tự động,,120
+154,Ô tô,Cần bán,Hồ Chí Minh,Quận 1,Phường Bến Nghé,,490000000,8/9/2021,Kia,Rondo,Việt Nam,2016,,7,Minivan (MPV),,Dầu,Tự động,,200
+155,Ô tô,Cần bán,Hồ Chí Minh,Quận 7,Phường Tân Kiểng,,3500000000,8/9/2021,LandRover,Range Rover Sport,,2015,,5,SUV / Cross over,,Xăng,Tự động,,800
+156,Ô tô,Cần bán,Hồ Chí Minh,Quận Bình Tân,Phường Bình Hưng Hòa,,330000000,8/9/2021,Kia,Soluto,Việt Nam,2019,,5,Sedan,,Xăng,Số sàn,,55
+157,Ô tô,Cần bán,Hồ Chí Minh,Quận Thủ Đức,Phường Hiệp Bình Chánh,,580000000,8/9/2021,Mitsubishi,Xpander,Việt Nam,2021,,7,Minivan (MPV),,Xăng,Tự động,,
+158,Ô tô,Cần bán,Hồ Chí Minh,Quận 7,Phường Tân Phong,,660000000,8/9/2021,BMW,3 Series,Đức,2012,,5,Sedan,,Xăng,Tự động,,76
+159,Ô tô,Cần bán,Hồ Chí Minh,Quận Thủ Đức,Phường Hiệp Bình Chánh,,499000000,8/9/2021,Kia,Cerato,,2021,,,,,,Tự động,,
+160,Ô tô,Cần bán,Hồ Chí Minh,Quận 7,Phường Bình Thuận,,609000000,8/9/2021,Kia,Seltos,Việt Nam,2021,,5,SUV / Cross over,,Xăng,Tự động,,
+161,Ô tô,Cần bán,Hồ Chí Minh,Huyện Củ Chi,,,275000000,8/9/2021,Toyota,Vios,Việt Nam,2011,,5,Sedan,,Xăng,Số sàn,,85
+162,Ô tô,Cần bán,Hồ Chí Minh,Huyện Bình Chánh,Xã Bình Hưng,,545000000,8/9/2021,Honda,City,Việt Nam,2020,,5,Sedan,,Xăng,Tự động,,22
+163,Ô tô,Cần bán,Hồ Chí Minh,Quận 12,Phường Thạnh Lộc,,285000000,8/9/2021,Mitsubishi,Attrage,Thái Lan,2018,,5,Sedan,,Xăng,Số sàn,,40
+164,Ô tô,Cần bán,Hồ Chí Minh,Quận 12,Phường Đông Hưng Thuận,,585000000,8/9/2021,Mazda,3,Hàn Quốc,2019,,5,Hatchback,,Xăng,Tự động,,50
+165,Ô tô,Cần bán,Hồ Chí Minh,Quận 12,Phường Tân Thới Hiệp,,278000000,8/9/2021,Chevrolet,Cruze,Việt Nam,2014,,5,,,,Số sàn,,81
+166,Ô tô,Cần bán,Hồ Chí Minh,Huyện Bình Chánh,Xã Lê Minh Xuân,,18000000,8/9/2021,Isuzu,Dòng khác,Nhật Bản,2019,,5,Pick-up (bán tải),,Dầu,Số sàn,,60
+167,Ô tô,Cần bán,Hồ Chí Minh,Quận Gò Vấp,Phường 9,,397000000,8/9/2021,Toyota,Innova,Nước khác,2015,,8,Minivan (MPV),,Xăng,Số sàn,,88
+168,Ô tô,Cần bán,Hồ Chí Minh,Quận 2,Phường Bình Trưng Đông,,385000000,8/9/2021,Hyundai,Santa Fe,Hàn Quốc,2007,,7,Hatchback,,Dầu,Bán tự động,,199
+169,Ô tô,Cần bán,Hồ Chí Minh,Quận Gò Vấp,Phường 17,,428000000,8/9/2021,Honda,Jazz,Thái Lan,2018,,5,Hatchback,,Xăng,Tự động,,45
+170,Ô tô,Cần bán,Hồ Chí Minh,Quận Thủ Đức,Phường Hiệp Bình Chánh,,430000000,8/9/2021,Kia,Morning,,2021,,,,,,Tự động,,
+171,Ô tô,Cần bán,Hồ Chí Minh,Quận Tân Phú,Phường Tây Thạnh,,4999000000,8/9/2021,Mercedes Benz,GLS Class,Mỹ,2021,,7,SUV / Cross over,,Xăng,Tự động,,
+172,Ô tô,Cần bán,Hồ Chí Minh,Quận Thủ Đức,Phường Hiệp Bình Phước,,520000000,8/9/2021,Ford,Transit,Việt Nam,2018,,16,Minivan (MPV),,Dầu,Số sàn,,56
+173,Ô tô,Cần bán,Hồ Chí Minh,Quận 7,Phường Tân Hưng,,599000000,8/9/2021,Honda,City,Việt Nam,2021,,5,Sedan,,Xăng,Tự động,,
+174,Ô tô,Cần bán,Hồ Chí Minh,Quận Thủ Đức,Phường Hiệp Bình Phước,,554900000,8/9/2021,Suzuki,XL 7,Nhật Bản,2021,,7,SUV / Cross over,,Xăng,Tự động,,
+175,Ô tô,Cần bán,Hồ Chí Minh,Quận Phú Nhuận,,,1182000000,8/9/2021,Peugeot,5008,Nước khác,2021,,7,SUV / Cross over,,Xăng,Tự động,,
+176,Ô tô,Cần bán,Hồ Chí Minh,Quận 6,Phường 13,,534000000,8/9/2021,MG,ZS,Thái Lan,2021,,5,SUV / Cross over,,Xăng,Tự động,,
+177,Ô tô,Cần bán,Hồ Chí Minh,Quận 6,Phường 13,,579000000,8/9/2021,MG,ZS,Thái Lan,2021,,5,SUV / Cross over,,Xăng,Tự động,,
+178,Ô tô,Cần bán,Hồ Chí Minh,Quận 6,Phường 13,,500000000,8/9/2021,MG,ZS,Thái Lan,2021,,5,SUV / Cross over,,Xăng,Tự động,,
+179,Ô tô,Cần bán,Hồ Chí Minh,Quận 12,Phường Thạnh Lộc,,425000000,7/9/2021,Suzuki,Ciaz,Thái Lan,2019,,5,Sedan,,Xăng,Tự động,,36
+180,Ô tô,Cần bán,Hồ Chí Minh,Quận Bình Thạnh,,,879000000,7/9/2021,Toyota,Camry,Việt Nam,2016,,5,Sedan,,Xăng,Tự động,,33.9
+181,Ô tô,Cần bán,Hồ Chí Minh,Quận 2,,,1170000000,7/9/2021,Toyota,Camry,Thái Lan,2019,,5,Sedan,,Xăng,Tự động,,59
+182,Ô tô,Cần bán,Hồ Chí Minh,Quận Tân Bình,Phường 12,,825000000,7/9/2021,Mercedes Benz,CLK Class,Đức,2012,,5,SUV / Cross over,,Xăng,Tự động,,70
+183,Ô tô,Cần bán,Hồ Chí Minh,Quận 9,,,685000000,7/9/2021,Ford,Ranger,Việt Nam,2020,,5,Pick-up (bán tải),,Dầu,Tự động,,23
+184,Ô tô,Cần bán,Hồ Chí Minh,Quận Tân Phú,Phường Sơn Kỳ,,420000000,7/9/2021,Honda,City,Việt Nam,2016,,5,Sedan,,Xăng,Tự động,,95
+185,Ô tô,Cần bán,Hồ Chí Minh,Quận 9,Phường Phước Long B,,710000000,7/9/2021,Honda,HR-V,Thái Lan,2019,,5,SUV / Cross over,,Xăng,Tự động,,40
+186,Ô tô,Cần bán,Hồ Chí Minh,Quận Thủ Đức,Phường Linh Trung,,76000000,7/9/2021,Honda,Accord,Mỹ,1990,,5,Sedan,,Xăng,Số sàn,,26.868
+187,Ô tô,Cần bán,Hồ Chí Minh,Huyện Hóc Môn,Xã Xuân Thới Thượng,,570000000,7/9/2021,Toyota,Fortuner,Thái Lan,2014,,7,SUV / Cross over,,Xăng,Tự động,,150
+188,Ô tô,Cần bán,Hồ Chí Minh,Quận 8,Phường 7,,280000000,7/9/2021,Nissan,Sunny,Việt Nam,2015,,5,Sedan,,Xăng,Số sàn,,30
+189,Ô tô,Cần bán,Hồ Chí Minh,Quận Phú Nhuận,Phường 8,,779000000,7/9/2021,Mazda,3,Việt Nam,2020,,5,Sedan,,Xăng,Tự động,,7
+190,Ô tô,Cần bán,Hồ Chí Minh,Quận 8,Phường 4,,1399000000,7/9/2021,Mercedes Benz,GLC,Việt Nam,2017,,5,SUV / Cross over,,Xăng,Tự động,,26
+191,Ô tô,Cần bán,Hồ Chí Minh,Quận Thủ Đức,Phường Hiệp Bình Phước,,519900000,7/9/2021,Suzuki,Ertiga,Nhật Bản,2021,,7,Minivan (MPV),,,Tự động,,
+192,Ô tô,Cần bán,Hồ Chí Minh,Quận Tân Phú,Phường Sơn Kỳ,,900000000,7/9/2021,Honda,CR V,Việt Nam,2020,,5,SUV / Cross over,,Xăng,Tự động,,100
+193,Ô tô,Cần bán,Hồ Chí Minh,Quận 4,Phường 14,,400000000,7/9/2021,Suzuki,Ertiga,Nước khác,2020,,5,Minivan (MPV),,Xăng,Số sàn,,65
+194,Ô tô,Cần bán,Hồ Chí Minh,Quận 9,Phường Tân Phú,,200000000,7/9/2021,Kia,Morning,Hàn Quốc,2016,,5,Hatchback,,Xăng,Số sàn,,150
+195,Ô tô,Cần bán,Hồ Chí Minh,Quận 5,Phường 1,,598000000,7/9/2021,Mitsubishi,Xpander,Việt Nam,2021,,7,Minivan (MPV),,Xăng,Tự động,,
+196,Ô tô,Cần bán,Hồ Chí Minh,Quận Tân Bình,Phường 2,,630000000,7/9/2021,Mitsubishi,Xpander,Việt Nam,2021,,7,Minivan (MPV),,Xăng,Tự động,,
+197,Ô tô,Cần bán,Hồ Chí Minh,Quận 12,Phường Thới An,,480000000,7/9/2021,Toyota,Vios,Việt Nam,2020,,5,Sedan,,Xăng,Tự động,,33
+198,Ô tô,Cần bán,Hồ Chí Minh,Quận Tân Phú,Phường Tân Thành,,636000000,7/9/2021,Mazda,3,Việt Nam,2021,,5,Sedan,,Xăng,Tự động,,
+199,Ô tô,Cần bán,Hồ Chí Minh,Quận 4,Phường 6,,881695000,7/9/2021,Vinfast,Lux,Việt Nam,2021,,5,Sedan,,Xăng,Tự động,,
+200,Ô tô,Cần bán,Hồ Chí Minh,Quận Thủ Đức,Phường Linh Chiểu,,630000000,7/9/2021,Honda,CR V,,2015,,5,SUV / Cross over,,Xăng,Tự động,,55.079
+201,Ô tô,Cần bán,Hồ Chí Minh,Quận Thủ Đức,Phường Hiệp Bình Phước,,471000000,7/9/2021,Hãng khác,Dòng khác,Việt Nam,2017,,8,SUV / Cross over,,,Số sàn,,83
+202,Ô tô,Cần bán,Hồ Chí Minh,Huyện Hóc Môn,Xã Tân Xuân,,2300000000,7/9/2021,Mercedes Benz,E Class,Đức,2019,,5,Sedan,,Xăng,Tự động,,9
+203,Ô tô,Cần bán,Hồ Chí Minh,Quận Thủ Đức,Phường Hiệp Bình Phước,,265000000,6/9/2021,Mitsubishi,Attrage,Thái Lan,2015,,5,Sedan,,Xăng,Tự động,,120
+204,Ô tô,Cần bán,Hồ Chí Minh,Quận Bình Tân,Phường Bình Trị Đông B,,340000000,6/9/2021,Kia,Rio,Hàn Quốc,2016,,5,Sedan,,Xăng,Số sàn,,65
+205,Ô tô,Cần bán,Hồ Chí Minh,Huyện Hóc Môn,Xã Xuân Thới Sơn,,275000000,6/9/2021,Chevrolet,Cruze,Mỹ,2014,,5,Sedan,,Xăng,Số sàn,,70
+206,Ô tô,Cần bán,Hồ Chí Minh,Quận Tân Bình,,,630000000,6/9/2021,Mitsubishi,Xpander,Nước khác,2021,,7,Minivan (MPV),,Xăng,Tự động,,
+207,Ô tô,Cần bán,Hồ Chí Minh,Quận 12,Phường Tân Thới Hiệp,,272000000,6/9/2021,Kia,Morning,Việt Nam,2016,,5,Hatchback,,Xăng,Số sàn,,41
+208,Ô tô,Cần bán,Hồ Chí Minh,Quận 3,Phường 3,,600000000,6/9/2021,Ford,Ranger,Việt Nam,2021,,5,Pick-up (bán tải),,Dầu,Số sàn,,
+209,Ô tô,Cần bán,Hồ Chí Minh,Quận Bình Tân,Phường An Lạc,,605000000,6/9/2021,Toyota,Corolla Altis,Việt Nam,2016,,5,Sedan,,Xăng,Tự động,,50
+210,Ô tô,Cần bán,Hồ Chí Minh,Quận Bình Tân,,,530000000,6/9/2021,Kia,Cerato,Việt Nam,2019,,5,Sedan,,Xăng,Tự động,,45
+211,Ô tô,Cần bán,Hồ Chí Minh,Huyện Củ Chi,Xã Tân Phú Trung,,155000000,6/9/2021,Ford,Transit,Việt Nam,2007,,7,Van,,Dầu,Số sàn,,350
+212,Ô tô,Cần bán,Hồ Chí Minh,Quận 9,Phường Tăng Nhơn Phú B,,295000000,6/9/2021,Ford,Everest,Mỹ,2008,,7,SUV / Cross over,,Dầu,Số sàn,,90
+213,Ô tô,Cần bán,Hồ Chí Minh,Quận 12,Phường Thạnh Lộc,,581000000,6/9/2021,Kia,Rondo,Việt Nam,2019,,5,Minivan (MPV),,Xăng,Tự động,,45123
+214,Ô tô,Cần bán,Hồ Chí Minh,Quận 7,Phường Tân Phú,,180000000,6/9/2021,Toyota,Dòng khác,Việt Nam,2005,,8,SUV / Cross over,,Xăng,Số sàn,,200
+215,Ô tô,Cần bán,Hồ Chí Minh,Quận 8,Phường 8,,246000000,6/9/2021,Toyota,Camry,Việt Nam,2003,,5,Sedan,,Xăng,Số sàn,,258
+216,Ô tô,Cần bán,Hồ Chí Minh,Quận 7,Phường Tân Hưng,,999000000,6/9/2021,BMW,3 Series,,2016,,4,Sedan,,Xăng,Tự động,,40
+217,Ô tô,Cần bán,Hồ Chí Minh,Huyện Hóc Môn,Xã Bà Điểm,,123456000,6/9/2021,Isuzu,NQR,Nhật Bản,2008,,,,,Dầu,Số sàn,,999
+218,Ô tô,Cần bán,Hồ Chí Minh,Quận Tân Bình,Phường 15,,1217000000,6/9/2021,Hyundai,Santa Fe,Việt Nam,2021,,7,SUV / Cross over,,Xăng,Tự động,,
+219,Ô tô,Cần bán,Hồ Chí Minh,Quận Tân Phú,,,720000000,6/9/2021,Toyota,Corolla Cross,,2021,,,,,Xăng,Tự động,,
+220,Ô tô,Cần bán,Hồ Chí Minh,Quận Bình Tân,,,325000000,6/9/2021,Toyota,4 Runner,Nhật Bản,2014,,8,Sedan,,Dầu,Số sàn,,89
+221,Ô tô,Cần bán,Hồ Chí Minh,Quận Thủ Đức,,,408000000,6/9/2021,Hyundai,Accent,Việt Nam,2021,,5,Sedan,,Xăng,Tự động,,
+222,Ô tô,Cần bán,Hồ Chí Minh,Quận Thủ Đức,Phường Hiệp Bình Phước,,1090000000,6/9/2021,Hyundai,Santa Fe,Việt Nam,2019,,7,SUV / Cross over,,Dầu,Tự động,,29
+223,Ô tô,Cần bán,Hồ Chí Minh,Quận Tân Bình,Phường 15,,569000000,6/9/2021,Hyundai,Kona,Việt Nam,2021,,5,SUV / Cross over,,Xăng,Tự động,,
+224,Ô tô,Cần bán,Hồ Chí Minh,Quận 12,Phường Tân Thới Hiệp,,5000000,6/9/2021,Kia,Dòng khác,Hàn Quốc,2014,,,,,Dầu,Số sàn,,874
+225,Ô tô,Cần bán,Hồ Chí Minh,Quận 9,Phường Hiệp Phú,,881695000,6/9/2021,Vinfast,Lux,,2021,,,,,,Tự động,,
+226,Ô tô,Cần bán,Hồ Chí Minh,Quận 8,Phường 5,,809000000,6/9/2021,Mazda,CX 5,Nhật Bản,2021,,5,SUV / Cross over,,Xăng,Tự động,,
+227,Ô tô,Cần bán,Hồ Chí Minh,Quận Tân Phú,Phường Tây Thạnh,,644000000,6/9/2021,Mazda,3,Nhật Bản,2021,,5,Sedan,,Xăng,Tự động,,
+228,Ô tô,Cần bán,Hồ Chí Minh,Quận 1,Phường Bến Nghé,,111111000,5/9/2021,Acura,CL,Việt Nam,2021,,7,Minivan (MPV),,,Tự động,,111111
+229,Ô tô,Cần bán,Hồ Chí Minh,Huyện Bình Chánh,Xã Đa Phước,,285000000,5/9/2021,Ford,Ranger,,2009,,,,,Dầu,Số sàn,,90
+230,Ô tô,Cần bán,Hồ Chí Minh,Quận 12,Phường Tân Thới Hiệp,,480000000,5/9/2021,Isuzu,Dmax,,2018,,5,Pick-up (bán tải),,Dầu,Số sàn,,60586
+231,Ô tô,Cần bán,Hồ Chí Minh,Huyện Bình Chánh,Thị trấn Tân Túc,,385000000,5/9/2021,Toyota,Wigo,Thái Lan,2021,,5,Hatchback,,Xăng,Tự động,,
+232,Ô tô,Cần bán,Hồ Chí Minh,Quận 12,Phường Tân Thới Hiệp,,178000000,5/9/2021,Hyundai,Starex,Hàn Quốc,1998,,9,Kiểu dáng khác,,Dầu,Số sàn,,100
+233,Ô tô,Cần bán,Hồ Chí Minh,Quận Tân Phú,Phường Tây Thạnh,,2950000000,5/9/2021,Mercedes Benz,E Class,Đức,2021,,5,Sedan,,Xăng,Tự động,,
+234,Ô tô,Cần bán,Hồ Chí Minh,Quận Bình Tân,Phường Bình Hưng Hoà A,,580000000,5/9/2021,Toyota,Innova,,2019,,8,Minivan (MPV),,Xăng,Số sàn,,63
+235,Ô tô,Cần bán,Hồ Chí Minh,Quận 9,Phường Hiệp Phú,,499000000,5/9/2021,Kia,Cerato,Việt Nam,2021,,5,Sedan,,Xăng,Tự động,,
+236,Ô tô,Cần bán,Hồ Chí Minh,Huyện Bình Chánh,Thị trấn Tân Túc,,1029000000,5/9/2021,Toyota,Camry,Thái Lan,2021,,5,Sedan,,Xăng,Tự động,,
+237,Ô tô,Cần bán,Hồ Chí Minh,Quận 11,,,295000000,5/9/2021,Hyundai,Grand i10,Việt Nam,2019,,5,Hatchback,,Xăng,Số sàn,,110
+238,Ô tô,Cần bán,Hồ Chí Minh,Quận 8,Phường 1,,315000000,5/9/2021,Toyota,Wigo,Nước khác,2018,,5,Hatchback,,Xăng,Tự động,,7
+239,Ô tô,Cần bán,Hồ Chí Minh,Quận Thủ Đức,Phường Hiệp Bình Chánh,,989000000,5/9/2021,Kia,Sedona,Việt Nam,2021,,7,Minivan (MPV),,Dầu,Tự động,,
+240,Ô tô,Cần bán,Hồ Chí Minh,Quận 12,Phường Thới An,,525000000,5/9/2021,Hyundai,Accent,Việt Nam,2021,,5,Sedan,,Xăng,Tự động,,
+241,Ô tô,Cần bán,Hồ Chí Minh,Quận Gò Vấp,Phường 17,,685000000,5/9/2021,Honda,Civic,Thái Lan,2020,,5,Sedan,,Xăng,Tự động,,20
+242,Ô tô,Cần bán,Hồ Chí Minh,Quận 12,Phường An Phú Đông,,690000000,5/9/2021,Honda,Civic,Thái Lan,2020,,5,Sedan,,Xăng,Tự động,,20
+243,Ô tô,Cần bán,Hồ Chí Minh,Quận 9,Phường Long Bình,,515000000,5/9/2021,Mazda,3,Việt Nam,2016,,5,Sedan,,Xăng,Tự động,,73
+244,Ô tô,Cần bán,Hồ Chí Minh,Quận 7,Phường Phú Thuận,,650000000,5/9/2021,Ford,Ranger,Thái Lan,2019,,5,Pick-up (bán tải),,Dầu,Số sàn,,50
+245,Ô tô,Cần bán,Hồ Chí Minh,Quận Tân Bình,Phường 15,,720000000,5/9/2021,Mazda,3,Việt Nam,2020,,5,Sedan,,Xăng,Tự động,,9
+246,Ô tô,Cần bán,Hồ Chí Minh,Quận 7,Phường Tân Phong,,570000000,5/9/2021,Toyota,Innova,Việt Nam,2016,,8,Minivan (MPV),,Xăng,Tự động,,60
+247,Ô tô,Cần bán,Hồ Chí Minh,Quận Bình Tân,Phường An Lạc,,635000000,5/9/2021,Hyundai,Kona,Việt Nam,2019,,5,SUV / Cross over,,Xăng,Tự động,,29
+248,Ô tô,Cần bán,Hồ Chí Minh,Quận Tân Phú,Phường Hòa Thạnh,,485000000,5/9/2021,Toyota,Innova,Việt Nam,2016,,8,Minivan (MPV),,Xăng,Số sàn,,68
+249,Ô tô,Cần bán,Hồ Chí Minh,Quận Bình Tân,Phường An Lạc,,508000000,5/9/2021,Mazda,BT 50,Thái Lan,2017,,5,Pick-up (bán tải),,Dầu,Số sàn,,83
+250,Ô tô,Cần bán,Hồ Chí Minh,Quận 2,,,574000000,5/9/2021,Honda,City,Việt Nam,2021,,5,Sedan,,Xăng,Tự động,,
+251,Ô tô,Cần bán,Hồ Chí Minh,Quận 12,Phường Trung Mỹ Tây,,939000000,5/9/2021,Toyota,Fortuner,Việt Nam,2019,,7,SUV / Cross over,,Dầu,Tự động,,63
+252,Ô tô,Cần bán,Hồ Chí Minh,Quận 12,Phường Thạnh Xuân,,600000000,5/9/2021,Mitsubishi,Xpander,Nước khác,2020,,5,Minivan (MPV),,Xăng,Tự động,,3
+253,Ô tô,Cần bán,Hồ Chí Minh,Quận 7,Phường Tân Phong,,599000000,5/9/2021,Honda,City,Việt Nam,2021,,5,Sedan,,Xăng,Tự động,,
+254,Ô tô,Cần bán,Hồ Chí Minh,Quận 8,Phường 1,,905000000,5/9/2021,Honda,CR V,Thái Lan,2019,,5,SUV / Cross over,,Xăng,Tự động,,16
+255,Ô tô,Cần bán,Hồ Chí Minh,Quận Gò Vấp,Phường 12,,220000000,5/9/2021,Toyota,Wigo,,2018,,5,Hatchback,,Xăng,Số sàn,,90
+256,Ô tô,Cần bán,Hồ Chí Minh,Quận Tân Phú,Phường Phú Thọ Hòa,,395000000,5/9/2021,Hyundai,Accent,Hàn Quốc,2019,,5,Sedan,,Xăng,Số sàn,,43
+257,Ô tô,Cần bán,Hồ Chí Minh,Quận 10,Phường 2,,299000000,4/9/2021,Ford,Ranger,Việt Nam,2021,,5,Pick-up (bán tải),,Dầu,Tự động,,
+258,Ô tô,Cần bán,Hồ Chí Minh,Quận Bình Tân,Phường Bình Trị Đông A,,245000000,4/9/2021,Hyundai,Grand i10,Việt Nam,2016,,5,Sedan,,Xăng,Tự động,,140
+259,Ô tô,Cần bán,Hồ Chí Minh,Quận 8,Phường 3,,89000000,4/9/2021,Mercedes Benz,Sprinter,Việt Nam,2005,,7,Van,,Dầu,Số sàn,,245
+260,Ô tô,Cần bán,Hồ Chí Minh,Quận Bình Tân,Phường An Lạc,,950000000,4/9/2021,Hyundai,Universe,Việt Nam,2013,,,Kiểu dáng khác,,Dầu,Số sàn,,325
+261,Ô tô,Cần bán,Hồ Chí Minh,Quận 9,Phường Hiệp Phú,,382500000,4/9/2021,Vinfast,Fadil,,2021,,,,,,Tự động,,
+262,Ô tô,Cần bán,Hồ Chí Minh,Quận Thủ Đức,Phường Hiệp Bình Phước,,293000000,4/9/2021,Toyota,Hiace,Việt Nam,2011,,10,Van,,Xăng,Số sàn,,1000000
+263,Ô tô,Cần bán,Hồ Chí Minh,Quận Tân Phú,Phường Tân Quý,,400000000,4/9/2021,Hyundai,Accent,,2019,,5,Sedan,,Xăng,Số sàn,,54
+264,Ô tô,Cần bán,Hồ Chí Minh,Quận 12,,,278000000,4/9/2021,Hãng khác,Dòng khác,Việt Nam,2021,,2,Van,,Xăng,Số sàn,,
+265,Ô tô,Cần bán,Hồ Chí Minh,Quận 2,,,1202000000,4/9/2021,Ford,Ranger,Thái Lan,2021,,5,Pick-up (bán tải),,Dầu,Tự động,,
+266,Ô tô,Cần bán,Hồ Chí Minh,Quận 7,Phường Tân Phong,,1048000000,4/9/2021,Honda,CR V,Việt Nam,2021,,7,SUV / Cross over,,Xăng,Tự động,,
+267,Ô tô,Cần bán,Hồ Chí Minh,Huyện Củ Chi,Xã Tân Phú Trung,,155000000,4/9/2021,Mercedes Benz,Sprinter,Việt Nam,2007,,16,Van,,Dầu,Số sàn,,150
+268,Ô tô,Cần bán,Hồ Chí Minh,Quận 7,Phường Tân Thuận Đông,,760000000,4/9/2021,Mercedes Benz,E Class,Đức,2009,,4,Coupe (2 cửa),,Xăng,Tự động,,110
+269,Ô tô,Cần bán,Hồ Chí Minh,Quận 8,Phường 6,,1050000000,4/9/2021,Mitsubishi,Pajero Sport,Thái Lan,2019,,7,SUV / Cross over,,Xăng,Tự động,,22
+270,Ô tô,Cần bán,Hồ Chí Minh,Quận Gò Vấp,Phường 11,,53000000,4/9/2021,Daihatsu,Dòng khác,Nhật Bản,1993,,4,Sedan,,Xăng,Số sàn,,360
+271,Ô tô,Cần bán,Hồ Chí Minh,Quận Bình Tân,Phường Tân Tạo A,,979000000,4/9/2021,Toyota,Fortuner,Thái Lan,2017,,7,SUV / Cross over,,Xăng,Tự động,,20
+272,Ô tô,Cần bán,Hồ Chí Minh,Huyện Nhà Bè,Xã Hiệp Phước,,1300000000,4/9/2021,LandRover,Range Rover,Nước khác,2010,,8,SUV / Cross over,,Xăng,Tự động,,90
+273,Ô tô,Cần bán,Hồ Chí Minh,Quận Tân Bình,Phường 15,,360000000,4/9/2021,Hyundai,Grand i10,Việt Nam,2021,,5,Sedan,,,Tự động,,
+274,Ô tô,Cần bán,Hồ Chí Minh,Quận Tân Phú,Phường Tây Thạnh,,639000000,4/9/2021,Mazda,CX 3,Thái Lan,2021,,5,SUV / Cross over,,Xăng,Tự động,,
+275,Ô tô,Cần bán,Hồ Chí Minh,Quận Thủ Đức,Phường Hiệp Bình Phước,,636000000,4/9/2021,Kia,Cerato,Việt Nam,2019,,5,Sedan,,Xăng,Tự động,,21
+276,Ô tô,Cần bán,Hồ Chí Minh,Quận Thủ Đức,Phường Hiệp Bình Phước,,556000000,4/9/2021,Mitsubishi,Xpander,Nước khác,2018,,7,Minivan (MPV),,Xăng,Tự động,,43
+277,Ô tô,Cần bán,Hồ Chí Minh,Quận Thủ Đức,Phường Hiệp Bình Phước,,516000000,4/9/2021,Hyundai,Elantra,Việt Nam,2019,,5,Sedan,,Xăng,Số sàn,,46
+278,Ô tô,Cần bán,Hồ Chí Minh,Quận Thủ Đức,Phường Hiệp Bình Phước,,526000000,4/9/2021,Toyota,Vios,Việt Nam,2019,,5,Sedan,,Xăng,Tự động,,31
+279,Ô tô,Cần bán,Hồ Chí Minh,Quận Thủ Đức,Phường Hiệp Bình Phước,,788000000,4/9/2021,Nissan,X Terra,Thái Lan,2019,,7,SUV / Cross over,,Dầu,Số sàn,,34
+280,Ô tô,Cần bán,Hồ Chí Minh,Quận Thủ Đức,Phường Hiệp Bình Phước,,768000000,4/9/2021,Mazda,3,Việt Nam,2020,,5,Sedan,,Xăng,Tự động,,11
+281,Ô tô,Cần bán,Hồ Chí Minh,Quận Thủ Đức,Phường Hiệp Bình Phước,,1018000000,4/9/2021,Hyundai,Santa Fe,Việt Nam,2019,,7,SUV / Cross over,,Xăng,Tự động,,41
+282,Ô tô,Cần bán,Hồ Chí Minh,Quận Thủ Đức,Phường Hiệp Bình Phước,,508000000,4/9/2021,Kia,Rondo,Việt Nam,2020,,5,Minivan (MPV),,Xăng,Số sàn,,16
+283,Ô tô,Cần bán,Hồ Chí Minh,Quận Bình Thạnh,Phường 15,,2470000000,4/9/2021,Mercedes Benz,GLC Class,,2021,,,,,,Tự động,,1.5
+284,Ô tô,Cần bán,Hồ Chí Minh,Quận Bình Thạnh,Phường 15,,3800000000,4/9/2021,Mercedes Benz,S Class,Việt Nam,2020,,5,Sedan,,Xăng,Tự động,,7
+285,Ô tô,Cần bán,Hồ Chí Minh,Quận 7,Phường Tân Phong,,850000000,4/9/2021,Toyota,Fortuner,Việt Nam,2019,,7,SUV / Cross over,,Dầu,Số sàn,,3
+286,Ô tô,Cần bán,Hồ Chí Minh,Quận 12,Phường Tân Thới Nhất,,820000000,4/9/2021,Mazda,CX 5,Việt Nam,2020,,5,SUV / Cross over,,Xăng,Tự động,,4
+287,Ô tô,Cần bán,Hồ Chí Minh,Huyện Bình Chánh,Xã Vĩnh Lộc B,,385000000,4/9/2021,Toyota,Vios,,2018,,5,Sedan,,Xăng,Số sàn,,35
+288,Ô tô,Cần bán,Hồ Chí Minh,Quận 9,Phường Hiệp Phú,,881695000,4/9/2021,Vinfast,Lux,,2021,,,,,,Tự động,,
+289,Ô tô,Cần bán,Hồ Chí Minh,Huyện Hóc Môn,Xã Tân Thới Nhì,,658000000,4/9/2021,Toyota,Fortuner,Nhật Bản,2016,,7,SUV / Cross over,,Xăng,Tự động,,100
+290,Ô tô,Cần bán,Hồ Chí Minh,Quận Thủ Đức,Phường Hiệp Bình Chánh,,849000000,4/9/2021,Mazda,CX-30,,2021,,,,,,Tự động,,
+291,Ô tô,Cần bán,Hồ Chí Minh,Quận Thủ Đức,Phường Linh Xuân,,410000000,4/9/2021,Toyota,Vios,Việt Nam,2017,,5,Sedan,,Xăng,Tự động,,70
+292,Ô tô,Cần bán,Hồ Chí Minh,Quận Thủ Đức,Phường Linh Xuân,,656000000,3/9/2021,Mitsubishi,Triton,Thái Lan,2019,,5,Pick-up (bán tải),,Dầu,Tự động,,57
+293,Ô tô,Cần bán,Hồ Chí Minh,Quận 12,Phường Đông Hưng Thuận,,125000000,3/9/2021,Hyundai,Galloper,Hàn Quốc,2001,,2,Coupe (2 cửa),,Dầu,Số sàn,,123
+294,Ô tô,Cần bán,Hồ Chí Minh,Quận Tân Phú,Phường Tây Thạnh,,885000000,3/9/2021,Ford,Everest,Thái Lan,2017,,7,SUV / Cross over,,Dầu,Tự động,,70
+295,Ô tô,Cần bán,Hồ Chí Minh,Quận 9,Phường Phú Hữu,,475000000,3/9/2021,Honda,City,Việt Nam,2019,,5,Sedan,,Xăng,Tự động,,55
+296,Ô tô,Cần bán,Hồ Chí Minh,Quận 6,Phường 11,,440000000,3/9/2021,Hãng khác,Dòng khác,Hàn Quốc,2010,,4,Coupe (2 cửa),,Xăng,Tự động,,75
+297,Ô tô,Cần bán,Hồ Chí Minh,Quận Thủ Đức,Phường Linh Chiểu,,286000000,3/9/2021,Kia,Morning,Hàn Quốc,2015,,5,Hatchback,,Xăng,Tự động,,42
+298,Ô tô,Cần bán,Hồ Chí Minh,Quận 10,Phường 14,,1098000000,3/9/2021,Toyota,Camry,Thái Lan,2019,,5,Sedan,,Xăng,Tự động,,20
+299,Ô tô,Cần bán,Hồ Chí Minh,Huyện Bình Chánh,Xã Phong Phú,,1490000000,3/9/2021,Audi,A7,Đức,2014,,4,Sedan,,Xăng,Bán tự động,,44
+300,Ô tô,Cần bán,Hồ Chí Minh,Quận Tân Phú,Phường Tây Thạnh,,2750000000,3/9/2021,Mercedes Benz,S Class,Việt Nam,2017,,5,Sedan,,Xăng,Tự động,,54
+301,Ô tô,Cần bán,Hồ Chí Minh,Quận Bình Tân,Phường An Lạc,,928000000,3/9/2021,Toyota,Fortuner,Việt Nam,2019,,7,SUV / Cross over,,Dầu,Số sàn,,30
+302,Ô tô,Cần bán,Hồ Chí Minh,Huyện Hóc Môn,Xã Nhị Bình,,90000000,3/9/2021,Chevrolet,Spark,Hàn Quốc,2010,,5,Hatchback,,Xăng,Số sàn,,10
+303,Ô tô,Cần bán,Hồ Chí Minh,Quận 7,Phường Tân Hưng,,580000000,3/9/2021,BMW,X5,Mỹ,2009,,8,SUV / Cross over,,Xăng,Tự động,,60
+304,Ô tô,Cần bán,Hồ Chí Minh,Quận Thủ Đức,Phường Linh Xuân,,378000000,3/9/2021,Mazda,2,Việt Nam,2015,,5,Hatchback,,Xăng,Tự động,,50
+305,Ô tô,Cần bán,Hồ Chí Minh,Quận 12,Phường Thạnh Lộc,,638000000,3/9/2021,Hyundai,Kona,,2018,,5,SUV / Cross over,,Xăng,Tự động,,38
+306,Ô tô,Cần bán,Hồ Chí Minh,Huyện Bình Chánh,Xã Tân Kiên,,542000000,3/9/2021,Hyundai,Creta,Hàn Quốc,2016,,5,SUV / Cross over,,Xăng,Tự động,,80
+307,Ô tô,Cần bán,Hồ Chí Minh,Huyện Củ Chi,Xã Phú Hòa Đông,,225000000,3/9/2021,Toyota,Innova,Việt Nam,2007,,8,Minivan (MPV),,Xăng,Số sàn,,230
+308,Ô tô,Cần bán,Hồ Chí Minh,Quận Tân Phú,Phường Tây Thạnh,,525000000,3/9/2021,Hyundai,Sonata,Hàn Quốc,2012,,5,Sedan,,Xăng,Tự động,,13
+309,Ô tô,Cần bán,Hồ Chí Minh,Quận Gò Vấp,Phường 12,,630000000,2/9/2021,Mitsubishi,Xpander Cross,Nước khác,2020,,7,SUV / Cross over,,Xăng,Tự động,,30
+310,Ô tô,Cần bán,Hồ Chí Minh,Huyện Bình Chánh,Xã Lê Minh Xuân,,30000000,2/9/2021,Toyota,Camry,Nhật Bản,1983,,5,Sedan,,Xăng,Số sàn,,15
+311,Ô tô,Cần bán,Hồ Chí Minh,Huyện Củ Chi,Xã Tân Thạnh Đông,,170000000,2/9/2021,Mercedes Benz,Sprinter,Việt Nam,2008,,7,Van,,Dầu,Số sàn,,12345
+312,Ô tô,Cần bán,Hồ Chí Minh,Quận Thủ Đức,,,556000000,2/9/2021,Mitsubishi,Xpander,Nước khác,2018,,5,Minivan (MPV),,Xăng,Tự động,,43
+313,Ô tô,Cần bán,Hồ Chí Minh,Huyện Bình Chánh,Thị trấn Tân Túc,,720000000,2/9/2021,Toyota,Corolla Cross,Thái Lan,2021,,5,SUV / Cross over,,Xăng,Tự động,,
+314,Ô tô,Cần bán,Hồ Chí Minh,Quận 6,Phường 14,,415000000,2/9/2021,Ford,Focus,Thái Lan,2015,,5,Sedan,,Xăng,Tự động,,80
+315,Ô tô,Cần bán,Hồ Chí Minh,Quận 7,Phường Tân Phú,,158000000,2/9/2021,Toyota,Crown,Nhật Bản,1993,,5,Sedan,,Xăng,Số sàn,,4567
+316,Ô tô,Cần bán,Hồ Chí Minh,Quận Thủ Đức,Phường Hiệp Bình Phước,,460000000,2/9/2021,Ford,Transit,Mỹ,2018,,16,Minivan (MPV),,Dầu,Số sàn,,61
+317,Ô tô,Cần bán,Hồ Chí Minh,Quận 4,,,1489000000,2/9/2021,Mercedes Benz,GLC,Việt Nam,2017,,5,SUV / Cross over,,Xăng,Tự động,,41
+318,Ô tô,Cần bán,Hồ Chí Minh,Quận Thủ Đức,Phường Hiệp Bình Phước,,510000000,2/9/2021,Ford,Transit,Việt Nam,2018,,16,Minivan (MPV),,Dầu,Số sàn,,56
+319,Ô tô,Cần bán,Hồ Chí Minh,Quận 4,Phường 16,,400000000,2/9/2021,Kia,Rondo,Việt Nam,2014,,7,Minivan (MPV),,Dầu,Tự động,,250
+320,Ô tô,Cần bán,Hồ Chí Minh,Huyện Hóc Môn,,,75000000,2/9/2021,Daewoo,Nubira,Trung Quốc,2001,,5,Sedan,,Xăng,Số sàn,,657
+321,Ô tô,Cần bán,Hồ Chí Minh,Quận 2,Phường Thảo Điền,,990000000,2/9/2021,Toyota,Camry,Việt Nam,2019,,5,Sedan,,Xăng,Tự động,,3138
+322,Ô tô,Cần bán,Hồ Chí Minh,Quận 8,Phường 13,,249000000,2/9/2021,Kia,Morning,Việt Nam,2017,,5,Hatchback,,Xăng,Số sàn,,120
+323,Ô tô,Cần bán,Hồ Chí Minh,Quận Phú Nhuận,,,1870000000,2/9/2021,Mercedes Benz,GLC,Đức,2018,,5,SUV / Cross over,,Xăng,Tự động,,35
+324,Ô tô,Cần bán,Hồ Chí Minh,Quận Phú Nhuận,Phường 11,,1580000000,2/9/2021,Mercedes Benz,C Class,Nước khác,2020,,5,Sedan,,Xăng,Tự động,,12
+325,Ô tô,Cần bán,Hồ Chí Minh,Quận Thủ Đức,Phường Trường Thọ,,319000000,2/9/2021,Luxgen,5,,2012,,,,,,Tự động,,82
+326,Ô tô,Cần bán,Hồ Chí Minh,Quận 8,Phường 1,,28000000,1/9/2021,Ford,Transit,Việt Nam,2014,,16,Minivan (MPV),,Dầu,Số sàn,,200
+327,Ô tô,Cần bán,Hồ Chí Minh,Quận 2,Phường Bình Trưng Đông,,462000000,1/9/2021,Kia,Cerato,Hàn Quốc,2017,,5,Sedan,,Xăng,Tự động,,50
+328,Ô tô,Cần bán,Hồ Chí Minh,Quận 7,Phường Tân Hưng,,770000000,1/9/2021,BMW,5 Series,Mỹ,2010,,4,Sedan,,Xăng,Số sàn,,75
+329,Ô tô,Cần bán,Hồ Chí Minh,Quận Thủ Đức,Phường Hiệp Bình Phước,,730000000,1/9/2021,Toyota,Fortuner,Việt Nam,2018,,7,SUV / Cross over,,Dầu,Số sàn,,93
+330,Ô tô,Cần bán,Hồ Chí Minh,Quận 9,Phường Tân Phú,,560000000,1/9/2021,Ford,Ranger,Thái Lan,2020,,5,Pick-up (bán tải),,Dầu,Số sàn,,255
+331,Ô tô,Cần bán,Hồ Chí Minh,Quận Tân Bình,Phường 5,,493000000,1/9/2021,Kia,K3,Hàn Quốc,2015,,5,Sedan,,Xăng,Tự động,,24368
+332,Ô tô,Cần bán,Hồ Chí Minh,Quận Bình Tân,Phường An Lạc A,,590000000,1/9/2021,Vinfast,VFe34,Việt Nam,2021,,5,SUV / Cross over,,Động cơ Hybrid,Tự động,,
+333,Ô tô,Cần bán,Hồ Chí Minh,Quận 7,Phường Tân Phong,,275000000,1/9/2021,Toyota,Land Cruiser,Nhật Bản,1997,,5,Sedan,,Xăng,Số sàn,,100
+334,Ô tô,Cần bán,Hồ Chí Minh,Quận Thủ Đức,Phường Hiệp Bình Chánh,,644000000,1/9/2021,Mazda,3,Việt Nam,2021,,5,Sedan,,Xăng,Tự động,,
+335,Ô tô,Cần bán,Hồ Chí Minh,Quận Tân Bình,Phường 15,,355000000,1/9/2021,Hyundai,Grand i10,Việt Nam,2021,,5,Hatchback,,Xăng,Số sàn,,
+336,Ô tô,Cần bán,Hồ Chí Minh,Quận Tân Phú,Phường Tây Thạnh,,1110000000,1/9/2021,Ford,Everest,Thái Lan,2021,,7,SUV / Cross over,,Dầu,Tự động,,
+337,Ô tô,Cần bán,Hồ Chí Minh,Quận 10,Phường 1,,380000000,1/9/2021,Suzuki,Ertiga,Nước khác,2017,,7,SUV / Cross over,,Xăng,Tự động,,200
+338,Ô tô,Cần bán,Hồ Chí Minh,Quận 12,Phường Thạnh Xuân,,590000000,1/9/2021,Ford,Ranger,Thái Lan,2019,,5,Pick-up (bán tải),,Dầu,Số sàn,,30
+339,Ô tô,Cần bán,Hồ Chí Minh,Quận Bình Tân,Phường Tân Tạo,,55000000,1/9/2021,Kia,Pride,Nước khác,1999,,5,Sedan,,Xăng,Số sàn,,10
+340,Ô tô,Cần bán,Hồ Chí Minh,Quận Bình Tân,Phường An Lạc,,499000000,1/9/2021,Kia,Cerato,Việt Nam,2021,,5,Sedan,,Xăng,Tự động,,
+341,Ô tô,Cần bán,Hồ Chí Minh,Quận Bình Tân,Phường An Lạc,,989000000,1/9/2021,Peugeot,3008,,2021,,,,,,Tự động,,
+342,Ô tô,Cần bán,Hồ Chí Minh,Quận 2,Phường Bình Trưng Tây,,300000000,31/08/2021,Hyundai,Grand i10,Việt Nam,2018,,5,Sedan,,Xăng,Tự động,,50
+343,Ô tô,Cần bán,Hồ Chí Minh,Quận 12,Phường Tân Thới Nhất,,135000000,31/08/2021,Toyota,Hiace,,2003,,,,,,Số sàn,,120
+344,Ô tô,Cần bán,Hồ Chí Minh,Quận Tân Bình,Phường 15,,430000000,31/08/2021,Hyundai,Grand i10,Việt Nam,2021,,5,Hatchback,,Xăng,Tự động,,
+345,Ô tô,Cần bán,Hồ Chí Minh,Quận 9,Phường Phước Long B,,420000000,31/08/2021,Ford,EcoSport,Thái Lan,2015,,5,SUV / Cross over,,Xăng,Tự động,,90
+346,Ô tô,Cần bán,Hồ Chí Minh,Quận 11,Phường 2,,1120000000,31/08/2021,BMW,5 Series,Đức,2015,,5,Sedan,,Xăng,Tự động,,61
+347,Ô tô,Cần bán,Hồ Chí Minh,Quận Tân Phú,,,839000000,31/08/2021,Mazda,Dòng khác,,2021,,,,,,Tự động,,
+348,Ô tô,Cần bán,Hồ Chí Minh,Quận 7,Phường Tân Hưng,,180000000,31/08/2021,Hãng khác,Dòng khác,,2012,,,,,Dầu,Số sàn,,99
+349,Ô tô,Cần bán,Hồ Chí Minh,Quận 6,,,644000000,31/08/2021,Mazda,3,Việt Nam,2021,,5,Sedan,,Xăng,Tự động,,
+350,Ô tô,Cần bán,Hồ Chí Minh,Quận Bình Tân,,,1195000000,31/08/2021,Toyota,Fortuner,Việt Nam,2021,,7,SUV / Cross over,,Dầu,Tự động,,
+351,Ô tô,Cần bán,Hồ Chí Minh,Quận 7,Phường Phú Thuận,,740000000,31/08/2021,Mazda,CX 5,Việt Nam,2017,,5,SUV / Cross over,,Xăng,Số sàn,,39
+352,Ô tô,Cần bán,Hồ Chí Minh,Quận Bình Tân,Phường An Lạc,,620000000,31/08/2021,Kia,Cerato,Việt Nam,2021,,5,Sedan,,Xăng,Bán tự động,,
+353,Ô tô,Cần bán,Hồ Chí Minh,Huyện Củ Chi,Xã Tân Thông Hội,,200000000,31/08/2021,Mercedes Benz,Sprinter,Đức,2008,,6,Van,,Dầu,Số sàn,,250
+354,Ô tô,Cần bán,Hồ Chí Minh,Quận Tân Phú,Phường Tây Thạnh,,2690000000,31/08/2021,Mercedes Benz,GLB,Đức,2021,,7,SUV / Cross over,,Xăng,Tự động,,
+355,Ô tô,Cần bán,Hồ Chí Minh,Huyện Hóc Môn,Xã Tân Hiệp,,270000000,31/08/2021,Kia,Dòng khác,Nhật Bản,2016,,,Kiểu dáng khác,,Dầu,Số sàn,,50
+356,Ô tô,Cần bán,Hồ Chí Minh,Huyện Hóc Môn,Xã Bà Điểm,,545000000,31/08/2021,Suzuki,XL 7,Ấn Độ,2020,,5,SUV / Cross over,,Xăng,Tự động,,22
+357,Ô tô,Cần bán,Hồ Chí Minh,Huyện Hóc Môn,Xã Bà Điểm,,519000000,30/08/2021,Toyota,Innova,Việt Nam,2017,,8,Minivan (MPV),,Xăng,Số sàn,,79
+358,Ô tô,Cần bán,Hồ Chí Minh,Quận Bình Tân,Phường An Lạc,,289000000,30/08/2021,Kia,Morning,Việt Nam,2021,,4,Hatchback,,Xăng,Số sàn,,
+359,Ô tô,Cần bán,Hồ Chí Minh,Huyện Bình Chánh,Thị trấn Tân Túc,,440000000,30/08/2021,Honda,City,Việt Nam,2017,,5,Sedan,,Xăng,Tự động,,40
+360,Ô tô,Cần bán,Hồ Chí Minh,Quận Thủ Đức,Phường Hiệp Bình Phước,,458000000,30/08/2021,Hyundai,Accent,Việt Nam,2019,,5,Sedan,,Xăng,Tự động,,43
+361,Ô tô,Cần bán,Hồ Chí Minh,Quận Thủ Đức,Phường Hiệp Bình Phước,,635000000,30/08/2021,Hyundai,Elantra,Việt Nam,2020,,5,Sedan,,Xăng,Tự động,,10
+362,Ô tô,Cần bán,Hồ Chí Minh,Quận Thủ Đức,Phường Hiệp Bình Phước,,378000000,30/08/2021,Toyota,Innova,Việt Nam,2014,,7,Minivan (MPV),,Xăng,Số sàn,,120
+363,Ô tô,Cần bán,Hồ Chí Minh,Quận 2,Phường Thạnh Mỹ Lợi,,685000000,30/08/2021,Audi,A8,Đức,2009,,4,Sedan,,Xăng,Tự động,,48
+364,Ô tô,Cần bán,Hồ Chí Minh,Quận Bình Tân,,,1340000000,30/08/2021,Hyundai,Santa Fe,Hàn Quốc,2021,,7,SUV / Cross over,,Dầu,Tự động,,
+365,Ô tô,Cần bán,Hồ Chí Minh,Quận 4,Phường 8,,6700000000,30/08/2021,Toyota,Land Cruiser,Nước khác,2021,,7,SUV / Cross over,,Xăng,Tự động,,
+366,Ô tô,Cần bán,Hồ Chí Minh,Quận 12,Phường Thạnh Xuân,,650000000,30/08/2021,Ford,Ranger,Thái Lan,2019,,5,Pick-up (bán tải),,Dầu,Tự động,,10
+367,Ô tô,Cần bán,Hồ Chí Minh,Quận Thủ Đức,Phường Hiệp Bình Phước,,850000000,30/08/2021,Mazda,CX 5,Việt Nam,2021,,5,SUV / Cross over,,Xăng,Tự động,,13
+368,Ô tô,Cần bán,Hồ Chí Minh,Quận Tân Phú,Phường Tây Thạnh,,480000000,30/08/2021,Ford,Ranger,Thái Lan,2013,,5,Pick-up (bán tải),,Dầu,Tự động,,89
+369,Ô tô,Cần bán,Hồ Chí Minh,Quận Tân Phú,Phường Tây Thạnh,,785000000,30/08/2021,Ford,Ranger,Thái Lan,2018,,5,Pick-up (bán tải),,Dầu,Tự động,,66
+370,Ô tô,Cần bán,Hồ Chí Minh,Quận 7,Phường Tân Phong,,574000000,30/08/2021,Honda,City,Việt Nam,2021,,5,Sedan,,Xăng,Tự động,,
+371,Ô tô,Cần bán,Hồ Chí Minh,Quận Bình Tân,Phường An Lạc,,589000000,30/08/2021,Toyota,Innova,Việt Nam,2018,,8,Minivan (MPV),,Xăng,Số sàn,,56
+372,Ô tô,Cần bán,Hồ Chí Minh,Quận Gò Vấp,Phường 3,,250000000,30/08/2021,Toyota,Corolla,Việt Nam,1980,,4,Sedan,,Xăng,Số sàn,,999999
+373,Ô tô,Cần bán,Hồ Chí Minh,Quận 7,Phường Tân Phong,,3089000000,30/08/2021,Mercedes Benz,GLC Class,Đức,2021,,5,SUV / Cross over,,Xăng,Tự động,,
+374,Ô tô,Cần bán,Hồ Chí Minh,Quận 7,Phường Tân Phong,,1799000000,30/08/2021,Mercedes Benz,GLC Class,Việt Nam,2021,,5,SUV / Cross over,,Xăng,Tự động,,
+375,Ô tô,Cần bán,Hồ Chí Minh,Quận 7,Phường Tân Phong,,2099000000,30/08/2021,Mercedes Benz,GLC Class,Việt Nam,2021,,5,SUV / Cross over,,Xăng,Tự động,,
+376,Ô tô,Cần bán,Hồ Chí Minh,Quận Thủ Đức,Phường Bình Chiểu,,1095000000,30/08/2021,Hyundai,Santa Fe,Việt Nam,2019,,7,SUV / Cross over,,Dầu,Tự động,,30
+377,Ô tô,Cần bán,Hồ Chí Minh,Quận 1,,,2345678000,30/08/2021,Mercedes Benz,Dòng khác,Đức,2019,,,Kiểu dáng khác,,Dầu,Bán tự động,,
+378,Ô tô,Cần bán,Hồ Chí Minh,Quận 7,Phường Tân Phong,,3089000000,30/08/2021,Mercedes Benz,GLC Class,Đức,2021,,5,SUV / Cross over,,Xăng,Tự động,,
+379,Ô tô,Cần bán,Hồ Chí Minh,Quận 7,Phường Tân Phong,,3089000000,30/08/2021,Mercedes Benz,GLC Class,Đức,2021,,5,SUV / Cross over,,Xăng,Tự động,,
+380,Ô tô,Cần bán,Hồ Chí Minh,Quận 9,Phường Phước Long A,,625000000,29/08/2021,Toyota,Venza,Mỹ,2009,,5,SUV / Cross over,,Xăng,Tự động,,63
+381,Ô tô,Cần bán,Hồ Chí Minh,Quận Thủ Đức,Phường Bình Chiểu,,45000000,29/08/2021,Honda,Accord,,1993,,5,Sedan,,Xăng,Số sàn,,9999
+382,Ô tô,Cần bán,Hồ Chí Minh,Quận Gò Vấp,Phường 10,,479000000,29/08/2021,Mazda,2,Thái Lan,2021,,4,Sedan,,Xăng,Tự động,,
+383,Ô tô,Cần bán,Hồ Chí Minh,Quận Bình Tân,Phường Bình Hưng Hoà A,,125000000,29/08/2021,Hyundai,Elantra,Việt Nam,2021,,5,Sedan,,Xăng,Tự động,,
+384,Ô tô,Cần bán,Hồ Chí Minh,Quận Bình Thạnh,Phường 26,,985000000,29/08/2021,Mercedes Benz,C Class,Việt Nam,2017,,5,Sedan,,Xăng,Tự động,,68
+385,Ô tô,Cần bán,Hồ Chí Minh,Quận 12,Phường Tân Thới Nhất,,185000000,29/08/2021,Toyota,Hiace,,2006,,10,Van,,Xăng,Số sàn,,130
+386,Ô tô,Cần bán,Hồ Chí Minh,Quận 6,,,779000000,29/08/2021,Ford,Ranger,Việt Nam,2021,,5,Pick-up (bán tải),,Dầu,Tự động,,
+387,Ô tô,Cần bán,Hồ Chí Minh,Quận Bình Tân,Phường An Lạc,,905000000,29/08/2021,Ford,Ranger,Việt Nam,2021,,5,Pick-up (bán tải),,Dầu,Tự động,,
+388,Ô tô,Cần bán,Hồ Chí Minh,Quận 7,Phường Tân Phong,,430000000,29/08/2021,BMW,3 Series,Đức,2010,,5,Sedan,,Xăng,Tự động,,66
+389,Ô tô,Cần bán,Hồ Chí Minh,Quận Thủ Đức,Phường Hiệp Bình Phước,,569900000,29/08/2021,Suzuki,XL 7,Nhật Bản,2021,,7,Minivan (MPV),,Xăng,Bán tự động,,
+390,Ô tô,Cần bán,Hồ Chí Minh,Quận 7,Phường Tân Phong,,560000000,29/08/2021,Cadillac,SRX,Mỹ,2005,,5,SUV / Cross over,,Xăng,Tự động,,66
+391,Ô tô,Cần bán,Hồ Chí Minh,Quận 12,Phường Thạnh Lộc,,378000000,29/08/2021,Kia,Soluto,Việt Nam,2020,,5,Sedan,,Xăng,Tự động,,28
+392,Ô tô,Cần bán,Hồ Chí Minh,Huyện Nhà Bè,Xã Phú Xuân,,260000000,29/08/2021,Chevrolet,Captiva,Mỹ,2008,,7,SUV / Cross over,,Xăng,Tự động,,102
+393,Ô tô,Cần bán,Hồ Chí Minh,Quận Tân Phú,Phường Tây Thạnh,,485000000,29/08/2021,Ford,Ranger,Thái Lan,2013,,5,Pick-up (bán tải),,Dầu,Tự động,,89
+394,Ô tô,Cần bán,Hồ Chí Minh,Huyện Hóc Môn,Xã Thới Tam Thôn,,230000000,29/08/2021,Hyundai,Grand i10,Ấn Độ,2016,,5,Sedan,,Xăng,Số sàn,,200
+395,Ô tô,Cần bán,Hồ Chí Minh,Huyện Hóc Môn,Xã Bà Điểm,,179000000,29/08/2021,Kia,Morning,Hàn Quốc,2009,,5,Hatchback,,Xăng,Tự động,,128
+396,Ô tô,Cần bán,Hồ Chí Minh,Huyện Hóc Môn,Xã Bà Điểm,,172000000,29/08/2021,Kia,Morning,Việt Nam,2009,,5,Hatchback,,Xăng,Tự động,,96
+397,Ô tô,Cần bán,Hồ Chí Minh,Quận 12,,,87000000,29/08/2021,Hãng khác,Dòng khác,,2001,,,,,,Số sàn,,120
+398,Ô tô,Cần bán,Hồ Chí Minh,Quận Bình Tân,Phường Bình Hưng Hoà B,,380000000,29/08/2021,Chevrolet,Cruze,Mỹ,2017,,5,Sedan,,Xăng,Số sàn,,58
+399,Ô tô,Cần bán,Hồ Chí Minh,Quận Thủ Đức,Phường Bình Chiểu,,189000000,29/08/2021,Toyota,Innova,Việt Nam,2008,,8,Minivan (MPV),,Xăng,Số sàn,,222
+400,Ô tô,Cần bán,Hồ Chí Minh,Quận Bình Tân,,,620000000,29/08/2021,Kia,Cerato,Việt Nam,2021,,5,Sedan,,Xăng,Tự động,,
+401,Ô tô,Cần bán,Hồ Chí Minh,Quận Bình Tân,,,289000000,28/08/2021,Kia,Morning,Việt Nam,2021,,5,Hatchback,,Xăng,Số sàn,,
+402,Ô tô,Cần bán,Hồ Chí Minh,Quận 7,Phường Tân Thuận Tây,,1359000000,28/08/2021,Mercedes Benz,GLC,,2017,,5,Sedan,,Xăng,Tự động,,45
+403,Ô tô,Cần bán,Hồ Chí Minh,Quận 12,Phường Tân Thới Hiệp,,460000000,28/08/2021,Kia,Rondo,Hàn Quốc,2016,,7,Minivan (MPV),,Xăng,Tự động,,64
+404,Ô tô,Cần bán,Hồ Chí Minh,Quận 6,,,881000000,28/08/2021,Vinfast,Lux,Việt Nam,2021,,5,Sedan,,Xăng,Tự động,,
+405,Ô tô,Cần bán,Hồ Chí Minh,Quận 9,Phường Hiệp Phú,,950000000,28/08/2021,Honda,CR V,Việt Nam,2020,,5,SUV / Cross over,,Xăng,Tự động,,9
+406,Ô tô,Cần bán,Hồ Chí Minh,Quận 6,,,610000000,28/08/2021,Mitsubishi,Xpander,Nhật Bản,2020,,7,SUV / Cross over,,Xăng,Tự động,,17
+407,Ô tô,Cần bán,Hồ Chí Minh,Quận 9,,,2489000000,28/08/2021,Mercedes Benz,GLC,Việt Nam,2021,,5,SUV / Cross over,,Xăng,Tự động,,800
+408,Ô tô,Cần bán,Hồ Chí Minh,Quận 2,Phường Thảo Điền,,881695000,28/08/2021,Vinfast,Lux,Việt Nam,2021,,5,Sedan,,Xăng,Tự động,,
+409,Ô tô,Cần bán,Hồ Chí Minh,Quận Gò Vấp,,,999000000,28/08/2021,Kia,Sorento,Việt Nam,2021,,7,SUV / Cross over,,Dầu,Tự động,,
+410,Ô tô,Cần bán,Hồ Chí Minh,Quận 7,Phường Tân Quy,,539000000,28/08/2021,Toyota,Fortuner,Việt Nam,2013,,7,SUV / Cross over,,Xăng,Tự động,,896
+411,Ô tô,Cần bán,Hồ Chí Minh,Quận 12,Phường Thạnh Xuân,,325000000,28/08/2021,Toyota,Wigo,Nhật Bản,2019,,5,Hatchback,,Xăng,Số sàn,,15
+412,Ô tô,Cần bán,Hồ Chí Minh,Quận Thủ Đức,Phường Hiệp Bình Chánh,,798000000,28/08/2021,Mazda,CX 5,,2021,,5,,,Xăng,Tự động,,
+413,Ô tô,Cần bán,Hồ Chí Minh,Huyện Hóc Môn,Xã Bà Điểm,,230000000,28/08/2021,Ford,Ranger,Việt Nam,2008,,5,Pick-up (bán tải),,Dầu,Số sàn,,130
+414,Ô tô,Cần bán,Hồ Chí Minh,Quận 7,Phường Tân Phong,,599000000,28/08/2021,Honda,City,Việt Nam,2021,,5,Sedan,,Xăng,Tự động,,
+415,Ô tô,Cần bán,Hồ Chí Minh,Huyện Hóc Môn,Xã Trung Chánh,,300000000,28/08/2021,Hãng khác,Dòng khác,Việt Nam,2020,,5,Kiểu dáng khác,,Xăng,Tự động,,1
+416,Ô tô,Cần bán,Hồ Chí Minh,Quận 6,Phường 6,,390000000,28/08/2021,Mazda,2,Thái Lan,2016,,5,Sedan,,Xăng,Tự động,,73
+417,Ô tô,Cần bán,Hồ Chí Minh,Quận 12,,,455000000,27/08/2021,Hyundai,H 1,Hàn Quốc,2015,,5,Kiểu dáng khác,,Xăng,Số sàn,,23
+418,Ô tô,Cần bán,Hồ Chí Minh,Quận 2,,,590000000,27/08/2021,Ford,EcoSport,Việt Nam,2021,,5,SUV / Cross over,,Xăng,Tự động,,
+419,Ô tô,Cần bán,Hồ Chí Minh,Quận 7,Phường Tân Phong,,195000000,27/08/2021,Toyota,Hiace,,2006,,7,,,Dầu,Số sàn,,
+420,Ô tô,Cần bán,Hồ Chí Minh,Quận Bình Tân,Phường An Lạc,,1112000000,27/08/2021,Ford,Everest,Thái Lan,2021,,7,SUV / Cross over,,Dầu,Tự động,,
+421,Ô tô,Cần bán,Hồ Chí Minh,Huyện Bình Chánh,Thị trấn Tân Túc,,879000000,27/08/2021,Toyota,Innova,Việt Nam,2021,,8,Minivan (MPV),,Xăng,Tự động,,
+422,Ô tô,Cần bán,Hồ Chí Minh,Quận 6,,,630000000,27/08/2021,Ford,Ranger,Việt Nam,2021,,5,Pick-up (bán tải),,Dầu,Tự động,,
+423,Ô tô,Cần bán,Hồ Chí Minh,Quận Bình Tân,Phường An Lạc,,586000000,27/08/2021,Ford,Ranger,Việt Nam,2021,,5,Pick-up (bán tải),,Dầu,Số sàn,,
+424,Ô tô,Cần bán,Hồ Chí Minh,Huyện Nhà Bè,Xã Phước Kiển,,25000000,27/08/2021,Hyundai,Grand i10,,2018,,5,Hatchback,,Xăng,Tự động,,130
+425,Ô tô,Cần bán,Hồ Chí Minh,Quận Thủ Đức,,,665000000,27/08/2021,Toyota,Venza,Mỹ,2009,,5,SUV / Cross over,,Xăng,Tự động,,57
+426,Ô tô,Cần bán,Hồ Chí Minh,Quận Thủ Đức,Phường Hiệp Bình Phước,,2079000000,27/08/2021,Mercedes Benz,GLC,Việt Nam,2020,,5,SUV / Cross over,,Xăng,Tự động,,900
+427,Ô tô,Cần bán,Hồ Chí Minh,Quận Gò Vấp,Phường 1,,989000000,27/08/2021,Peugeot,Dòng khác,Nước khác,2021,,5,SUV / Cross over,,Xăng,Tự động,,
+428,Ô tô,Cần bán,Hồ Chí Minh,Quận 8,,,358000000,27/08/2021,Mitsubishi,Grandis,Việt Nam,2008,,5,Minivan (MPV),,Xăng,Tự động,,99
+429,Ô tô,Cần bán,Hồ Chí Minh,Quận Tân Phú,Phường Sơn Kỳ,,350000000,27/08/2021,Ford,Transit,Mỹ,2015,,5,Van,,Dầu,Số sàn,,190
+430,Ô tô,Cần bán,Hồ Chí Minh,Huyện Bình Chánh,,,424000000,27/08/2021,Kia,Morning,Việt Nam,2021,,5,Hatchback,,Xăng,Tự động,,
+431,Ô tô,Cần bán,Hồ Chí Minh,Quận Bình Tân,Phường An Lạc,,440000000,27/08/2021,Honda,City,Việt Nam,2017,,5,Sedan,,Xăng,Tự động,,65
+432,Ô tô,Cần bán,Hồ Chí Minh,Quận Gò Vấp,,,989000000,27/08/2021,Kia,Sedona,Việt Nam,2020,,7,Minivan (MPV),,Dầu,Tự động,,
+433,Ô tô,Cần bán,Hồ Chí Minh,Quận Bình Tân,Phường An Lạc,,430000000,27/08/2021,Kia,Morning,Việt Nam,2021,,5,Hatchback,,Xăng,Tự động,,
+434,Ô tô,Cần bán,Hồ Chí Minh,Quận 12,Phường Tân Thới Nhất,,400000000,27/08/2021,Mazda,2,Việt Nam,2016,,5,Sedan,,Xăng,Tự động,,68
+435,Ô tô,Cần bán,Hồ Chí Minh,Quận Bình Thạnh,,,1059000000,27/08/2021,Kia,Sorento,Việt Nam,2021,,7,SUV / Cross over,,Dầu,Tự động,,
+436,Ô tô,Cần bán,Hồ Chí Minh,Quận 6,,,1219000000,27/08/2021,Toyota,Fortuner,Việt Nam,2021,,7,SUV / Cross over,,Dầu,Tự động,,33
+437,Ô tô,Cần bán,Hồ Chí Minh,Quận 12,Phường Thạnh Lộc,,429000000,27/08/2021,Kia,Morning,Việt Nam,2021,,5,Hatchback,,Xăng,Tự động,,
+438,Ô tô,Cần bán,Hồ Chí Minh,Quận 12,Phường Thạnh Xuân,,499000000,27/08/2021,Kia,Cerato,Việt Nam,2021,,5,Sedan,,Xăng,Tự động,,
+439,Ô tô,Cần bán,Hồ Chí Minh,Quận Gò Vấp,Phường 10,,639000000,27/08/2021,Mazda,CX 3,Việt Nam,2021,,5,SUV / Cross over,,Xăng,Tự động,,
+440,Ô tô,Cần bán,Hồ Chí Minh,Quận 8,Phường 3,,899000000,27/08/2021,Ford,Transit,Việt Nam,2021,,8,Kiểu dáng khác,,Dầu,Số sàn,,
+441,Ô tô,Cần bán,Hồ Chí Minh,Quận 12,Phường Trung Mỹ Tây,,615000000,27/08/2021,Toyota,Innova,,2019,,8,Minivan (MPV),,Xăng,Số sàn,,30
+442,Ô tô,Cần bán,Hồ Chí Minh,Quận 12,Phường Trung Mỹ Tây,,885000000,27/08/2021,Ford,Everest,,2017,,7,SUV / Cross over,,Dầu,Tự động,,
+443,Ô tô,Cần bán,Hồ Chí Minh,Quận 9,Phường Hiệp Phú,,75000000,27/08/2021,Mercedes Benz,MB,Đức,2004,,6,Van,,Dầu,Số sàn,,9999
+444,Ô tô,Cần bán,Hồ Chí Minh,Quận Bình Tân,Phường Tân Tạo A,,490000000,27/08/2021,Toyota,Vios,,2020,,5,Sedan,,Xăng,Tự động,,28
+445,Ô tô,Cần bán,Hồ Chí Minh,Quận 7,Phường Phú Thuận,,3086000000,26/08/2021,Jeep,Wrangler,Mỹ,2020,,5,SUV / Cross over,,Xăng,Tự động,,
+446,Ô tô,Cần bán,Hồ Chí Minh,Quận 3,Phường 3,,764000000,26/08/2021,Ford,Ranger,Việt Nam,2021,,5,Pick-up (bán tải),,Dầu,Bán tự động,,
+447,Ô tô,Cần bán,Hồ Chí Minh,Quận 2,Phường Thạnh Mỹ Lợi,,530000000,26/08/2021,Mercedes Benz,S Class,Đức,2006,,5,Sedan,,Xăng,Tự động,,79
+448,Ô tô,Cần bán,Hồ Chí Minh,Quận Bình Tân,Phường Bình Hưng Hòa,,300000000,26/08/2021,Hyundai,Grand i10,Việt Nam,2017,,5,Sedan,,Xăng,Tự động,,167
+449,Ô tô,Cần bán,Hồ Chí Minh,Quận Tân Bình,Phường 2,,463000000,26/08/2021,Ford,EcoSport,Việt Nam,2016,,5,SUV / Cross over,,Xăng,Tự động,,46
+450,Ô tô,Cần bán,Hồ Chí Minh,Quận Thủ Đức,Phường Hiệp Bình Phước,,585000000,26/08/2021,Chevrolet,Colorado,,2017,,5,Pick-up (bán tải),,Dầu,Tự động,,50
+451,Ô tô,Cần bán,Hồ Chí Minh,Quận Thủ Đức,Phường Hiệp Bình Phước,,575000000,26/08/2021,Mitsubishi,Xpander,Thái Lan,2019,,5,Minivan (MPV),,Xăng,Tự động,,30
+452,Ô tô,Cần bán,Hồ Chí Minh,Quận Thủ Đức,Phường Hiệp Bình Phước,,988000000,26/08/2021,Peugeot,5008,Việt Nam,2020,,7,SUV / Cross over,,Xăng,Tự động,,10
+453,Ô tô,Cần bán,Hồ Chí Minh,Quận Thủ Đức,Phường Hiệp Bình Phước,,938000000,26/08/2021,Toyota,Fortuner,Việt Nam,2020,,5,SUV / Cross over,,Dầu,Số sàn,,38
+454,Ô tô,Cần bán,Hồ Chí Minh,Quận 8,Phường 16,,250000000,26/08/2021,Kia,Morning,Việt Nam,2019,,5,Hatchback,,Xăng,Số sàn,,585
+455,Ô tô,Cần bán,Hồ Chí Minh,Huyện Hóc Môn,Xã Xuân Thới Thượng,,135000000,26/08/2021,Mitsubishi,Jolie,Nhật Bản,1998,,8,SUV / Cross over,,Xăng,Số sàn,,12346
+456,Ô tô,Cần bán,Hồ Chí Minh,Quận Tân Phú,Phường Sơn Kỳ,,245000000,26/08/2021,Hyundai,Grand i10,,2016,,5,Hatchback,,Xăng,Số sàn,,190
+457,Ô tô,Cần bán,Hồ Chí Minh,Quận 12,,,564000000,26/08/2021,Suzuki,XL 7,Nước khác,2021,,7,Minivan (MPV),,Xăng,Tự động,,
+458,Ô tô,Cần bán,Hồ Chí Minh,Quận Tân Bình,Phường 4,,7000000,26/08/2021,Hyundai,Grand i10,Việt Nam,2019,,5,Hatchback,,Xăng,Tự động,,38
+459,Ô tô,Cần bán,Hồ Chí Minh,Quận Bình Tân,Phường An Lạc,,644000000,26/08/2021,Mazda,3,Việt Nam,2021,,5,Sedan,,,Tự động,,
+460,Ô tô,Cần bán,Hồ Chí Minh,Quận Bình Tân,Phường An Lạc,,798000000,26/08/2021,Mazda,CX 5,Việt Nam,2021,,5,SUV / Cross over,,Xăng,Tự động,,
+461,Ô tô,Cần bán,Hồ Chí Minh,Quận 9,Phường Long Bình,,515000000,26/08/2021,Toyota,Innova,Việt Nam,2017,,8,Minivan (MPV),,Xăng,Số sàn,,73
+462,Ô tô,Cần bán,Hồ Chí Minh,Quận 12,Phường Thạnh Xuân,,669000000,26/08/2021,Ford,Focus,Việt Nam,2018,,4,Sedan,,Xăng,Tự động,,18
+463,Ô tô,Cần bán,Hồ Chí Minh,Quận Bình Tân,Phường An Lạc,,639000000,26/08/2021,Mazda,BT 50,Nhật Bản,2021,,5,Pick-up (bán tải),,Dầu,Số sàn,,
+464,Ô tô,Cần bán,Hồ Chí Minh,Quận Tân Phú,Phường Phú Thạnh,,1200000000,26/08/2021,Ford,Dòng khác,Thái Lan,2020,,5,Pick-up (bán tải),,Dầu,Bán tự động,,25
+465,Ô tô,Cần bán,Hồ Chí Minh,Quận 12,Phường Thạnh Xuân,,1100000000,26/08/2021,Ford,Everest,Thái Lan,2021,,7,SUV / Cross over,,Dầu,Tự động,,
+466,Ô tô,Cần bán,Hồ Chí Minh,Quận Tân Phú,Phường Hòa Thạnh,,1050000000,26/08/2021,Honda,CR V,Việt Nam,2020,,5,SUV / Cross over,,Động cơ Hybrid,Bán tự động,,4
+467,Ô tô,Cần bán,Hồ Chí Minh,Quận 11,Phường 8,,989000000,26/08/2021,Kia,Sedona,Việt Nam,2021,,7,Minivan (MPV),,Dầu,Tự động,,
+468,Ô tô,Cần bán,Hồ Chí Minh,Quận Thủ Đức,Phường Hiệp Bình Phước,,994000000,26/08/2021,Peugeot,5008,Nước khác,2020,,7,Minivan (MPV),,Xăng,Tự động,,12
+469,Ô tô,Cần bán,Hồ Chí Minh,Quận 12,Phường Thạnh Xuân,,245000000,26/08/2021,Chevrolet,Captiva,,2008,,7,SUV / Cross over,,Xăng,Tự động,,86
+470,Ô tô,Cần bán,Hồ Chí Minh,Quận 7,Phường Tân Phong,,920000000,25/08/2021,Hyundai,Santa Fe,Hàn Quốc,2021,,7,SUV / Cross over,,Xăng,Tự động,,
+471,Ô tô,Cần bán,Hồ Chí Minh,Quận Bình Thạnh,Phường 24,,515000000,25/08/2021,Honda,City,Việt Nam,2018,,5,Sedan,,Xăng,Tự động,,80
+472,Ô tô,Cần bán,Hồ Chí Minh,Quận Bình Tân,Phường An Lạc,,589000000,25/08/2021,Toyota,Innova,,2018,,8,Minivan (MPV),,Xăng,Số sàn,,56
+473,Ô tô,Cần bán,Hồ Chí Minh,Quận Phú Nhuận,Phường 8,,382000000,25/08/2021,Hyundai,Grand i10,,2020,,5,Hatchback,,Xăng,Tự động,,78
+474,Ô tô,Cần bán,Hồ Chí Minh,Quận Thủ Đức,Phường Hiệp Bình Phước,,369000000,25/08/2021,Kia,Soluto,Việt Nam,2021,,5,Sedan,,Xăng,Số sàn,,
+475,Ô tô,Cần bán,Hồ Chí Minh,Quận Thủ Đức,Phường Linh Xuân,,545000000,25/08/2021,Mazda,6,Việt Nam,2016,,5,Sedan,,Xăng,Tự động,,90
+476,Ô tô,Cần bán,Hồ Chí Minh,Quận 8,Phường 7,,1015000000,25/08/2021,Kia,Sorento,Việt Nam,2021,,7,SUV / Cross over,,Xăng,Tự động,,
+477,Ô tô,Cần bán,Hồ Chí Minh,Quận 2,,,2268000000,25/08/2021,Ford,Explorer,Mỹ,2021,,7,SUV / Cross over,,Xăng,Tự động,,
+478,Ô tô,Cần bán,Hồ Chí Minh,Quận 5,Phường 5,,499000000,25/08/2021,Kia,Cerato,Hàn Quốc,2021,,5,Sedan,,Xăng,Số sàn,,
+479,Ô tô,Cần bán,Hồ Chí Minh,Quận 2,,,920000000,25/08/2021,Ford,Transit,Việt Nam,2021,,8,Minivan (MPV),,Dầu,Số sàn,,
+480,Ô tô,Cần bán,Hồ Chí Minh,Quận Phú Nhuận,Phường 5,,1590000000,25/08/2021,Porsche,Panamera,Đức,2012,,5,Sedan,,Xăng,Tự động,,78
+481,Ô tô,Cần bán,Hồ Chí Minh,Quận Phú Nhuận,,,394000000,25/08/2021,Kia,Soluto,Hàn Quốc,2021,,5,Sedan,,Xăng,Tự động,,
+482,Ô tô,Cần bán,Hồ Chí Minh,Quận Tân Phú,Phường Tân Thới Hòa,,255000000,25/08/2021,Suzuki,Celerio,Thái Lan,2019,,5,Hatchback,,Xăng,Số sàn,,40
+483,Ô tô,Cần bán,Hồ Chí Minh,Quận 9,,,586000000,25/08/2021,Hyundai,Kona,Việt Nam,2021,,5,SUV / Cross over,,Xăng,Tự động,,
+484,Ô tô,Cần bán,Hồ Chí Minh,Quận Bình Tân,,,480000000,25/08/2021,Honda,City,Nhật Bản,2019,,5,Sedan,,Xăng,Tự động,,30
+485,Ô tô,Cần bán,Hồ Chí Minh,Quận 7,Phường Tân Hưng,,1138000000,25/08/2021,Honda,CR V,Việt Nam,2021,,7,SUV / Cross over,,Xăng,Tự động,,
+486,Ô tô,Cần bán,Hồ Chí Minh,Quận 11,,,564000000,25/08/2021,Suzuki,XL 7,,2021,,,,,Xăng,Tự động,,
+487,Ô tô,Cần bán,Hồ Chí Minh,Huyện Bình Chánh,Thị trấn Tân Túc,,634000000,25/08/2021,Toyota,Rush,Nước khác,2021,,7,SUV / Cross over,,Xăng,Tự động,,
+488,Ô tô,Cần bán,Hồ Chí Minh,Quận Gò Vấp,,,499000000,25/08/2021,Kia,Cerato,Việt Nam,2021,,5,Sedan,,Xăng,Số sàn,,
+489,Ô tô,Cần bán,Hồ Chí Minh,Quận 6,Phường 13,,820000000,25/08/2021,Toyota,86,Thái Lan,2021,,5,SUV / Cross over,,Xăng,Tự động,,
+490,Ô tô,Cần bán,Hồ Chí Minh,Quận 1,Phường Nguyễn Thái Bình,,1104000000,25/08/2021,Subaru,Forester,Thái Lan,2021,,5,SUV / Cross over,,Xăng,Tự động,,
+491,Ô tô,Cần bán,Hồ Chí Minh,Quận 2,Phường An Khánh,,881695000,25/08/2021,Vinfast,Lux,Việt Nam,2021,,5,Sedan,,Xăng,Tự động,,
+492,Ô tô,Cần bán,Hồ Chí Minh,Quận Gò Vấp,Phường 7,,650000000,25/08/2021,Kia,Sorento,Việt Nam,2017,,7,SUV / Cross over,,Xăng,Tự động,,70
+493,Ô tô,Cần bán,Hồ Chí Minh,Quận 12,Phường Tân Thới Hiệp,,440000000,25/08/2021,Toyota,Vios,Việt Nam,2018,,5,Sedan,,Xăng,Tự động,,63
+494,Ô tô,Cần bán,Hồ Chí Minh,Quận Tân Phú,Phường Tây Thạnh,,555000000,25/08/2021,Ford,EcoSport,Thái Lan,2018,,5,SUV / Cross over,,Xăng,Tự động,,81
+495,Ô tô,Cần bán,Hồ Chí Minh,Quận Bình Tân,Phường An Lạc,,969000000,25/08/2021,Kia,Sedona,Việt Nam,2021,,7,Minivan (MPV),,Dầu,Tự động,,
+496,Ô tô,Cần bán,Hồ Chí Minh,Quận 7,Phường Tân Hưng,,1650000000,25/08/2021,Lexus,GX,Nhật Bản,2010,,8,SUV / Cross over,,Xăng,Tự động,,85
+497,Ô tô,Cần bán,Hồ Chí Minh,Quận Tân Phú,Phường Sơn Kỳ,,650000000,24/08/2021,Toyota,Fortuner,Nhật Bản,2016,,7,SUV / Cross over,,Dầu,Số sàn,,99
+498,Ô tô,Cần bán,Hồ Chí Minh,Quận 12,Phường Thạnh Xuân,,788000000,24/08/2021,Hyundai,Santa Fe,,2015,,7,SUV / Cross over,,Dầu,Tự động,,50
+499,Ô tô,Cần bán,Hồ Chí Minh,Quận Phú Nhuận,Phường 9,,895000000,24/08/2021,Honda,CR V,Thái Lan,2019,,7,SUV / Cross over,,Xăng,Tự động,,22
+500,Ô tô,Cần bán,Hồ Chí Minh,Quận Bình Tân,Phường An Lạc,,499000000,24/08/2021,Kia,Cerato,Việt Nam,2021,,5,Sedan,,Xăng,Tự động,,
